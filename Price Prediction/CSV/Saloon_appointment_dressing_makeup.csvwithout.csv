@@ -1,0 +1,1893 @@
+,gender,age,province ,marital_status,employability_status,monthly_income,Output
+0,Female,18 - 25,Southern,Single,Dependant,0,2000
+1,Female,18 - 25,Southern,Single,Indep,30000,2000
+2,Female,26 - 30,Southern,Married,Indep,68000,2000
+3,Male,31 - 40,Southern,Married,Indep,70000,0
+4,Female,18 - 25,Western,Single,Indep,15000,2000
+5,Female,26 - 30,Southern,Single,Indep,100000,2000
+6,Male,18 - 25,Southern,Single,Indep,100000,0
+7,Female,26 - 30,Western,Single,Indep,30000,0
+8,Female,26 - 30,Western,Married,Indep,60000,3000
+9,Female,18 - 25,Western,Single,Dependant,0,0
+10,Female,26 - 30,Uva,Married,Indep,69000,0
+11,Male,18 - 25,Western,Single,Dependant,0,0
+12,Female,18 - 25,Southern,Single,Dependant,0,3000
+13,Female,26 - 30,Western,Single,Indep,70000,0
+14,Female,18 - 25,Western,Single,Dependant,0,5000
+15,Female,18 - 25,Southern,Single,Dependant,0,3000
+16,Female,18 - 25,Western,Single,Dependant,0,2000
+17,Female,18 - 25,Southern,Single,Dependant,0,0
+18,Female,18 - 25,Southern,Single,Dependant,0,3000
+19,Female,18 - 25,Southern,Single,Indep,130000,6000
+20,Female,18 - 25,Southern,Single,Dependant,0,0
+21,Female,18 - 25,Southern,Single,Indep,30000,2000
+22,Female,26 - 30,North Western,Single,Dependant,0,2500
+23,Female,26 - 30,Western,Single,Indep,70000,2000
+24,Female,18 - 25,Western,Married,Indep,150000,4000
+25,Female,18 - 25,Southern,Single,Dependant,0,2000
+26,Male,18 - 25,Western,Single,Dependant,0,0
+27,Male,18 - 25,Western,Single,Indep,80000,0
+28,Female,18 - 25,Southern,Single,Dependant,0,2500
+29,Male,18 - 25,Western,Single,Dependant,0,1000
+30,Male,18 - 25,Western,Single,Indep,100000,0
+31,Female,18 - 25,Western,Single,Dependant,0,300
+32,Female,18 - 25,Southern,Single,Indep,40000,0
+33,Male,18 - 25,Western,Single,Dependant,0,0
+34,Female,26 - 30,Western,Single,Indep,35000,3000
+35,Female,18 - 25,Western,Single,Indep,30000,0
+36,Female,26 - 30,Western,Single,Indep,30000,0
+37,Female,26 - 30,Western,Single,Indep,30000,1000
+38,Female,18 - 25,Western,Single,Indep,32000,0
+39,Male,18 - 25,Western,Single,Indep,30000,0
+40,Female,18 - 25,Western,Single,Indep,150000,0
+41,Male,18 - 25,Western,Single,Indep,20000,0
+42,Female,26 - 30,Western,Single,Dependant,0,0
+43,Male,18 - 25,Western,Single,Dependant,0,0
+44,Male,18 - 25,Western,Single,Indep,50000,1000
+45,Female,18 - 25,Southern,Single,Dependant,0,0
+46,Female,18 - 25,Central,Single,Dependant,0,4000
+47,Female,18 - 25,Western,Single,Indep,25000,2000
+48,Male,18 - 25,Western,Single,Dependant,0,0
+49,Male,18 - 25,Western,Single,Dependant,0,0
+50,Male,26 - 30,Western,Single,Indep,120000,1000
+51,Male,18 - 25,Western,Single,Indep,20000,500
+52,Male,18 - 25,Southern,Single,Dependant,0,0
+53,Female,18 - 25,Western,Single,Dependant,0,5000
+54,Female,18 - 25,Southern,Single,Indep,10000,0
+55,Female,18 - 25,Central,Single,Dependant,0,3000
+56,Female,18 - 25,North Western,Single,Indep,50000,3000
+57,Male,18 - 25,Sabaragamuwa,Single,Indep,40000,1000
+58,Male,18 - 25,Southern,Single,Dependant,0,1000
+59,Female,18 - 25,Southern,Single,Dependant,0,0
+60,Female,18 - 25,Southern,Single,Indep,27000,3000
+61,Female,18 - 25,Southern,Single,Dependant,0,1000
+62,Male,18 - 25,Western,Single,Indep,20000,500
+63,Female,18 - 25,Sabaragamuwa,Single,Indep,150000,0
+64,Male,18 - 25,Western,Single,Indep,15000,2000
+65,Female,18 - 25,Southern,Single,Dependant,0,0
+66,Female,18 - 25,Central,Single,Indep,200000,25000
+67,Female,18 - 25,Southern,Single,Dependant,0,0
+68,Female,18 - 25,Western,Single,Indep,34000,3000
+69,Female,26 - 30,Southern,Single,Indep,25000,1500
+70,Male,18 - 25,Western,Single,Dependant,0,0
+71,Male,18 - 25,Sabaragamuwa,Married,Indep,200000,3500
+72,Male,26 - 30,Southern,Single,Indep,330000,0
+73,Male,26 - 30,Western,Married,Indep,100000,0
+74,Male,26 - 30,Western,Single,Indep,170000,0
+75,Male,18 - 25,Western,Single,Indep,40000,0
+76,Male,26 - 30,Southern,Married,Indep,60000,1500
+77,Male,26 - 30,Southern,Single,Indep,550000,0
+78,Male,26 - 30,Southern,Married,Indep,105000,0
+79,Male,26 - 30,Southern,Single,Indep,600000,0
+80,Male,18 - 25,Western,Single,Indep,45000,0
+81,Male,26 - 30,Southern,Single,Indep,400000,0
+82,Female,18 - 25,Southern,Single,Dependant,0,4000
+83,Male,18 - 25,Western,Single,Indep,20000,0
+84,Female,18 - 25,Southern,Single,Dependant,0,500
+85,Male,18 - 25,Western,Single,Dependant,0,0
+86,Male,26 - 30,Sabaragamuwa,Single,Indep,45000,0
+87,Female,Below 18,Eastern,Single,Dependant,0,1000
+88,Male,Below 18,Southern,Single,Dependant,0,0
+89,Male,Below 18,Western,Single,Dependant,0,0
+90,Female,18 - 25,Southern,Single,Dependant,0,0
+91,Female,26 - 30,Western,Single,Dependant,0,1000
+92,Female,18 - 25,Southern,Single,Indep,30000,3000
+93,Female,18 - 25,Southern,Single,Indep,15000,5000
+94,Female,18 - 25,Southern,Single,Indep,30000,0
+95,Female,18 - 25,Central,Married,Dependant,0,0
+96,Female,18 - 25,Central,Single,Dependant,0,3000
+97,Female,18 - 25,Western,Single,Dependant,0,2000
+98,Female,18 - 25,Western,Single,Dependant,0,3000
+99,Male,31 - 40,Southern,Single,Indep,120000,5000
+100,Female,18 - 25,Central,Married,Indep,90000,6000
+101,Female,18 - 25,Western,Single,Indep,35000,3500
+102,Male,18 - 25,Western,Single,Indep,50000,0
+103,Female,18 - 25,Southern,Single,Dependant,0,3000
+104,Female,18 - 25,Western,Single,Dependant,0,500
+105,Female,18 - 25,Southern,Single,Indep,30000,250
+106,Female,18 - 25,Western,Single,Dependant,0,5000
+107,Female,18 - 25,Southern,Single,Indep,22000,0
+108,Female,18 - 25,Southern,Single,Indep,50000,2500
+109,Female,26 - 30,North Western,Single,Indep,140000,2000
+110,Female,26 - 30,Southern,Single,Dependant,0,0
+111,Female,26 - 30,Southern,Single,Indep,60000,0
+112,Female,26 - 30,Southern,Single,Dependant,0,1000
+113,Female,31 - 40,North Central,Single,Indep,55000,1500
+114,Female,31 - 40,North Central,Single,Indep,50000,1500
+115,Female,31 - 40,North Central,Single,Indep,67000,2000
+116,Female,31 - 40,Central,Married,Indep,67000,2000
+117,Female,31 - 40,Western,Married,Indep,48000,1500
+118,Female,31 - 40,Western,Married,Indep,50000,2000
+119,Female,31 - 40,Western,Married,Indep,90000,2500
+120,Female,31 - 40,Western,Married,Indep,100000,3000
+121,Female,31 - 40,Eastern,Married,Indep,60000,2000
+122,Female,31 - 40,Eastern,Married,Indep,55000,2000
+123,Female,18 - 25,Eastern,Single,Indep,30000,2000
+124,Female,18 - 25,Eastern,Single,Indep,35000,1500
+125,Female,18 - 25,Uva,Single,Indep,25000,1500
+126,Female,18 - 25,Uva,Single,Indep,30000,1000
+127,Female,18 - 25,Uva,Single,Indep,15000,1000
+128,Female,18 - 25,Uva,Single,Indep,15000,1000
+129,Female,18 - 25,North Western,Single,Indep,20000,2000
+130,Female,18 - 25,North Western,Single,Indep,45000,2000
+131,Female,18 - 25,Southern,Single,Indep,41000,2000
+132,Female,18 - 25,Southern,Single,Indep,25000,1800
+133,Female,18 - 25,Southern,Single,Indep,38000,2000
+134,Female,18 - 25,Southern,Single,Indep,28000,2000
+135,Female,18 - 25,Southern,Single,Indep,35000,2500
+136,Female,18 - 25,Central,Single,Indep,85000,4000
+137,Female,18 - 25,Central,Single,Indep,65000,2500
+138,Female,18 - 25,North Central,Single,Indep,28000,1500
+139,Female,18 - 25,North Central,Single,Indep,30000,1500
+140,Female,18 - 25,North Central,Single,Indep,30000,1500
+141,Female,18 - 25,Nothern,Single,Indep,20000,1000
+142,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+143,Female,Below 18,Sabaragamuwa,Single,Indep,15000,1500
+144,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1000
+145,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+146,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+147,Female,Below 18,Southern,Single,Dependant,0,2000
+148,Female,Below 18,Southern,Single,Dependant,0,2000
+149,Female,Below 18,Southern,Single,Dependant,0,1500
+150,Female,Below 18,Southern,Single,Dependant,0,1500
+151,Female,Below 18,Southern,Single,Dependant,0,1500
+152,Female,Below 18,Southern,Single,Dependant,0,2000
+153,Female,Below 18,Southern,Single,Dependant,0,1500
+154,Female,Below 18,Southern,Single,Dependant,0,2000
+155,Female,Below 18,Southern,Single,Dependant,0,1500
+156,Female,Below 18,Southern,Single,Dependant,0,1500
+157,Female,Below 18,Southern,Single,Dependant,0,1500
+158,Female,Below 18,Southern,Single,Dependant,0,2000
+159,Female,Below 18,Southern,Single,Dependant,0,2000
+160,Female,Below 18,Southern,Single,Dependant,0,2000
+161,Female,Below 18,Southern,Single,Dependant,0,2000
+162,Female,Below 18,Southern,Single,Dependant,0,1500
+163,Female,Below 18,Central,Single,Dependant,0,1000
+164,Female,Below 18,Central,Single,Dependant,0,900
+165,Female,Below 18,Central,Single,Dependant,0,1000
+166,Female,Below 18,Central,Single,Dependant,0,1500
+167,Female,Below 18,Central,Single,Dependant,0,2000
+168,Female,Below 18,Central,Single,Dependant,0,4000
+169,Female,Below 18,Central,Single,Dependant,0,3500
+170,Female,Below 18,Central,Single,Dependant,0,3000
+171,Female,Below 18,Central,Single,Dependant,0,2500
+172,Female,Below 18,Central,Single,Dependant,0,3000
+173,Female,Below 18,Western,Single,Dependant,0,2000
+174,Female,Below 18,Western,Single,Dependant,0,3000
+175,Female,Below 18,Western,Single,Dependant,0,4000
+176,Female,Below 18,Western,Single,Dependant,0,4000
+177,Female,Below 18,Western,Single,Dependant,0,2000
+178,Female,Below 18,Western,Single,Dependant,0,5000
+179,Female,Below 18,Western,Single,Dependant,0,2000
+180,Female,Below 18,Western,Single,Dependant,0,2500
+181,Female,Below 18,Western,Single,Dependant,0,5000
+182,Female,Below 18,Western,Single,Dependant,0,4000
+183,Female,Below 18,Western,Single,Dependant,0,4000
+184,Female,Below 18,Central,Single,Dependant,0,4000
+185,Female,Below 18,Central,Single,Dependant,0,2500
+186,Female,Below 18,Central,Single,Dependant,0,2000
+187,Female,Below 18,Central,Single,Dependant,0,2000
+188,Female,Below 18,Central,Single,Dependant,0,1500
+189,Female,Below 18,Central,Single,Dependant,0,2000
+190,Female,Below 18,Central,Single,Dependant,0,2000
+191,Female,Below 18,Central,Single,Dependant,0,2000
+192,Female,Below 18,Central,Single,Dependant,0,2000
+193,Female,Below 18,Western,Single,Dependant,0,2500
+194,Female,Below 18,Western,Single,Dependant,0,3000
+195,Female,Below 18,Western,Single,Dependant,0,5000
+196,Female,Below 18,North Western,Single,Dependant,0,1000
+197,Female,Below 18,North Western,Single,Dependant,0,1500
+198,Female,Below 18,North Western,Single,Dependant,0,1000
+199,Female,26 - 30,North Central,Single,Indep,30000,1500
+200,Female,26 - 30,North Central,Single,Indep,38000,1500
+201,Female,26 - 30,North Central,Single,Indep,35000,1500
+202,Female,26 - 30,Uva,Single,Indep,35000,1500
+203,Female,26 - 30,Uva,Single,Indep,40000,1500
+204,Female,26 - 30,Uva,Single,Indep,40000,1500
+205,Female,26 - 30,North Western,Single,Indep,65000,2500
+206,Female,26 - 30,North Western,Single,Indep,30000,2000
+207,Female,26 - 30,Sabaragamuwa,Single,Indep,42000,1500
+208,Female,26 - 30,Sabaragamuwa,Single,Indep,41000,1500
+209,Female,26 - 30,Sabaragamuwa,Single,Indep,40000,1500
+210,Female,26 - 30,Sabaragamuwa,Single,Indep,56000,1500
+211,Female,26 - 30,Sabaragamuwa,Single,Indep,55000,1500
+212,Female,26 - 30,Sabaragamuwa,Single,Indep,58000,1500
+213,Female,26 - 30,Sabaragamuwa,Single,Indep,63000,1500
+214,Female,26 - 30,Sabaragamuwa,Single,Indep,67000,1500
+215,Female,26 - 30,Sabaragamuwa,Single,Indep,71000,1500
+216,Female,26 - 30,Sabaragamuwa,Single,Indep,70000,1500
+217,Female,26 - 30,Sabaragamuwa,Single,Indep,72000,1500
+218,Female,26 - 30,Sabaragamuwa,Single,Indep,42000,1500
+219,Female,26 - 30,Sabaragamuwa,Single,Indep,41000,1500
+220,Female,26 - 30,Sabaragamuwa,Single,Indep,40000,1500
+221,Female,26 - 30,Sabaragamuwa,Single,Indep,56000,1500
+222,Female,26 - 30,Sabaragamuwa,Single,Indep,55000,1500
+223,Female,26 - 30,Sabaragamuwa,Single,Indep,58000,2000
+224,Female,26 - 30,Sabaragamuwa,Single,Indep,63000,2000
+225,Female,26 - 30,Sabaragamuwa,Single,Indep,67000,2000
+226,Female,26 - 30,Sabaragamuwa,Single,Indep,71000,2000
+227,Female,26 - 30,Sabaragamuwa,Single,Indep,170000,3000
+228,Female,26 - 30,Southern,Single,Indep,45000,1800
+229,Female,26 - 30,Southern,Single,Indep,48000,1800
+230,Female,26 - 30,Southern,Single,Indep,38000,1500
+231,Female,26 - 30,Southern,Single,Indep,67000,2000
+232,Female,26 - 30,Southern,Single,Indep,70000,2000
+233,Female,26 - 30,Southern,Single,Indep,88000,2500
+234,Female,26 - 30,Southern,Single,Indep,75000,2000
+235,Female,26 - 30,Southern,Single,Indep,55000,2000
+236,Female,26 - 30,Southern,Single,Indep,60000,1800
+237,Female,26 - 30,Southern,Single,Indep,110000,5000
+238,Female,26 - 30,Southern,Single,Indep,95000,4000
+239,Female,26 - 30,Central,Single,Indep,55000,1500
+240,Female,26 - 30,Central,Single,Indep,45000,1500
+241,Female,26 - 30,Central,Single,Indep,80000,1800
+242,Female,26 - 30,Central,Single,Indep,65000,1500
+243,Female,26 - 30,Central,Single,Indep,130000,2500
+244,Female,26 - 30,Central,Single,Indep,100000,2500
+245,Female,26 - 30,Central,Single,Indep,75000,2000
+246,Female,26 - 30,Central,Single,Indep,35000,1000
+247,Female,26 - 30,Central,Single,Indep,28000,1000
+248,Female,26 - 30,Central,Single,Indep,45000,1500
+249,Female,26 - 30,Central,Single,Indep,58000,1500
+250,Female,26 - 30,Central,Single,Dependant,0,4000
+251,Female,26 - 30,Central,Single,Dependant,0,3000
+252,Female,26 - 30,Central,Single,Dependant,0,2500
+253,Female,26 - 30,Central,Single,Dependant,0,3000
+254,Female,26 - 30,Western,Single,Indep,62000,2000
+255,Female,26 - 30,Western,Single,Indep,70000,2500
+256,Female,26 - 30,Western,Married,Indep,35000,1500
+257,Female,26 - 30,Western,Married,Indep,40000,1500
+258,Female,26 - 30,Western,Married,Indep,52000,2000
+259,Female,26 - 30,Western,Married,Indep,70000,2500
+260,Female,26 - 30,Western,Married,Indep,80000,3000
+261,Female,26 - 30,Central,Married,Indep,65000,1800
+262,Female,26 - 30,Central,Married,Indep,70000,1500
+263,Female,26 - 30,Central,Married,Indep,38000,1000
+264,Female,26 - 30,Central,Single,Indep,95000,2500
+265,Female,26 - 30,Central,Single,Indep,80000,2000
+266,Female,26 - 30,Western,Single,Indep,120000,3000
+267,Female,26 - 30,Western,Single,Indep,60000,3000
+268,Female,31 - 40,Western,Single,Indep,72000,2500
+269,Female,31 - 40,Nothern,Married,Indep,58000,1000
+270,Female,31 - 40,Nothern,Married,Indep,63000,900
+271,Female,31 - 40,North Central,Married,Indep,57000,1500
+272,Female,31 - 40,North Central,Married,Indep,63000,1500
+273,Female,31 - 40,North Western,Married,Indep,120000,3000
+274,Female,31 - 40,North Western,Married,Indep,70000,2500
+275,Female,31 - 40,Sabaragamuwa,Married,Indep,65000,1500
+276,Female,31 - 40,Sabaragamuwa,Married,Indep,80000,2000
+277,Female,31 - 40,Sabaragamuwa,Married,Indep,61000,1500
+278,Female,31 - 40,Sabaragamuwa,Married,Indep,75000,2000
+279,Female,31 - 40,Sabaragamuwa,Married,Indep,70000,1500
+280,Female,31 - 40,Western,Married,Indep,38000,1500
+281,Female,31 - 40,Western,Married,Indep,120000,2500
+282,Female,31 - 40,Western,Married,Indep,150000,3000
+283,Female,31 - 40,Western,Married,Indep,180000,4000
+284,Female,31 - 40,Central,Married,Dependant,0,2500
+285,Female,31 - 40,Eastern,Married,Indep,30000,2000
+286,Male,18 - 25,Eastern,Single,Dependant,0,1000
+287,Male,18 - 25,Eastern,Single,Indep,25000,0
+288,Male,18 - 25,North Central,Single,Indep,15000,0
+289,Male,18 - 25,North Central,Single,Indep,15000,0
+290,Male,18 - 25,North Central,Single,Indep,20000,2000
+291,Male,18 - 25,Uva,Single,Indep,20000,0
+292,Male,18 - 25,Uva,Single,Indep,25000,0
+293,Male,18 - 25,Uva,Single,Indep,30000,0
+294,Male,18 - 25,Uva,Single,Indep,30000,0
+295,Male,18 - 25,Sabaragamuwa,Single,Indep,25000,0
+296,Male,18 - 25,Sabaragamuwa,Single,Indep,27000,0
+297,Male,18 - 25,Sabaragamuwa,Single,Indep,29000,0
+298,Male,18 - 25,Sabaragamuwa,Single,Indep,30000,0
+299,Male,18 - 25,Sabaragamuwa,Single,Indep,32000,0
+300,Male,18 - 25,Central,Single,Dependant,0,0
+301,Male,18 - 25,Central,Single,Dependant,0,0
+302,Male,18 - 25,Nothern,Single,Dependant,0,0
+303,Male,18 - 25,Nothern,Single,Dependant,0,0
+304,Male,Below 18,Southern,Single,Dependant,0,0
+305,Male,Below 18,Southern,Single,Dependant,0,0
+306,Male,Below 18,Southern,Single,Dependant,0,0
+307,Male,Below 18,Southern,Single,Dependant,0,0
+308,Male,Below 18,Southern,Single,Dependant,0,0
+309,Male,Below 18,Southern,Single,Dependant,0,0
+310,Male,Below 18,Southern,Single,Dependant,0,0
+311,Male,Below 18,Southern,Single,Dependant,0,0
+312,Male,Below 18,Southern,Single,Dependant,0,0
+313,Male,Below 18,Southern,Single,Dependant,0,0
+314,Male,Below 18,Southern,Single,Dependant,0,0
+315,Male,Below 18,Southern,Single,Dependant,0,0
+316,Male,Below 18,Southern,Single,Dependant,0,0
+317,Male,Below 18,Southern,Single,Dependant,0,0
+318,Male,Below 18,Southern,Single,Dependant,0,0
+319,Male,Below 18,Central,Single,Dependant,0,0
+320,Male,Below 18,Central,Single,Dependant,0,0
+321,Male,Below 18,Central,Single,Dependant,0,0
+322,Male,Below 18,Central,Single,Dependant,0,0
+323,Male,Below 18,Central,Single,Dependant,0,0
+324,Male,Below 18,Western,Single,Dependant,0,0
+325,Male,Below 18,Western,Single,Dependant,0,0
+326,Male,Below 18,Western,Single,Dependant,0,0
+327,Male,Below 18,Western,Single,Dependant,0,0
+328,Male,Below 18,Central,Single,Dependant,0,0
+329,Male,Below 18,Central,Single,Dependant,0,0
+330,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+331,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+332,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+333,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+334,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+335,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+336,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+337,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+338,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+339,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+340,Male,Below 18,Sabaragamuwa,Single,Indep,12000,0
+341,Male,26 - 30,Eastern,Single,Indep,35000,0
+342,Male,26 - 30,Eastern,Single,Indep,30000,0
+343,Male,26 - 30,Eastern,Single,Indep,40000,0
+344,Male,26 - 30,North Central,Single,Indep,38000,0
+345,Male,26 - 30,North Central,Single,Indep,42000,0
+346,Male,26 - 30,North Central,Single,Indep,45000,0
+347,Male,26 - 30,Uva,Single,Indep,45000,0
+348,Male,26 - 30,Uva,Single,Indep,30000,0
+349,Male,26 - 30,Uva,Single,Indep,25000,0
+350,Male,26 - 30,Uva,Single,Indep,35000,0
+351,Male,26 - 30,Uva,Single,Indep,40000,0
+352,Male,26 - 30,North Western,Single,Indep,60000,0
+353,Male,26 - 30,North Western,Single,Indep,55000,0
+354,Male,26 - 30,North Western,Single,Indep,58000,0
+355,Male,26 - 30,North Western,Single,Indep,55000,0
+356,Male,26 - 30,North Western,Single,Indep,45000,0
+357,Male,26 - 30,North Western,Single,Indep,30000,0
+358,Male,26 - 30,Sabaragamuwa,Single,Indep,42000,0
+359,Male,26 - 30,Sabaragamuwa,Single,Indep,41000,0
+360,Male,26 - 30,Sabaragamuwa,Single,Indep,40000,0
+361,Male,26 - 30,Sabaragamuwa,Single,Indep,56000,0
+362,Male,26 - 30,Sabaragamuwa,Single,Indep,55000,0
+363,Male,26 - 30,Sabaragamuwa,Single,Indep,58000,0
+364,Male,26 - 30,Sabaragamuwa,Single,Indep,63000,0
+365,Male,26 - 30,Sabaragamuwa,Single,Indep,67000,0
+366,Male,26 - 30,Sabaragamuwa,Single,Indep,71000,0
+367,Male,26 - 30,Sabaragamuwa,Single,Indep,70000,0
+368,Male,26 - 30,Southern,Single,Indep,65000,0
+369,Male,26 - 30,Southern,Single,Indep,60000,0
+370,Male,26 - 30,Southern,Single,Indep,150000,1500
+371,Male,26 - 30,Southern,Single,Indep,125000,2000
+372,Male,26 - 30,Southern,Single,Indep,85000,1000
+373,Male,26 - 30,Central,Single,Indep,90000,0
+374,Male,26 - 30,Central,Single,Indep,95000,1000
+375,Male,26 - 30,Central,Single,Indep,85000,0
+376,Male,26 - 30,Central,Single,Indep,120000,2000
+377,Male,26 - 30,Central,Single,Indep,100000,1800
+378,Male,26 - 30,Western,Single,Indep,48000,1000
+379,Male,26 - 30,Western,Single,Indep,55000,1000
+380,Male,26 - 30,Western,Single,Indep,65000,1000
+381,Male,26 - 30,Western,Married,Indep,72000,0
+382,Male,26 - 30,Western,Married,Indep,90000,0
+383,Male,26 - 30,Central,Single,Indep,45000,0
+384,Male,26 - 30,Central,Single,Indep,55000,1000
+385,Male,26 - 30,Western,Single,Indep,70000,1000
+386,Male,26 - 30,Western,Single,Indep,90000,2000
+387,Male,18 - 25,Sabaragamuwa,Single,Indep,72000,0
+388,Male,18 - 25,Sabaragamuwa,Single,Indep,42000,0
+389,Male,18 - 25,Sabaragamuwa,Single,Indep,41000,0
+390,Male,18 - 25,Central,Single,Indep,25000,0
+391,Male,18 - 25,Central,Single,Indep,35000,800
+392,Male,18 - 25,Central,Single,Indep,42000,1000
+393,Male,18 - 25,Central,Single,Indep,55000,0
+394,Male,18 - 25,Central,Single,Indep,75000,1500
+395,Male,18 - 25,Western,Single,Indep,20000,0
+396,Male,18 - 25,Western,Single,Indep,32000,0
+397,Male,31 - 40,Western,Single,Indep,65000,0
+398,Male,31 - 40,Western,Single,Indep,80000,0
+399,Male,31 - 40,Western,Single,Indep,160000,1000
+400,Male,31 - 40,Central,Single,Indep,500000,0
+401,Male,31 - 40,Central,Single,Indep,110000,2000
+402,Male,31 - 40,Central,Single,Indep,580000,0
+403,Male,31 - 40,Central,Single,Indep,370000,0
+404,Male,31 - 40,Western,Single,Indep,250000,1000
+405,Male,31 - 40,Sabaragamuwa,Single,Indep,40000,0
+406,Male,31 - 40,Sabaragamuwa,Single,Indep,56000,0
+407,Male,31 - 40,Sabaragamuwa,Single,Indep,55000,0
+408,Male,31 - 40,Sabaragamuwa,Single,Indep,58000,0
+409,Male,31 - 40,Sabaragamuwa,Single,Indep,63000,0
+410,Male,31 - 40,Eastern,Married,Indep,58000,0
+411,Male,31 - 40,Uva,Married,Indep,67000,0
+412,Male,31 - 40,Uva,Married,Indep,64000,0
+413,Male,31 - 40,North Western,Married,Indep,55000,0
+414,Male,31 - 40,North Western,Married,Indep,50000,0
+415,Male,31 - 40,North Western,Married,Indep,60000,0
+416,Male,31 - 40,Sabaragamuwa,Married,Indep,58000,0
+417,Male,31 - 40,Sabaragamuwa,Married,Indep,63000,0
+418,Male,31 - 40,Sabaragamuwa,Married,Indep,67000,0
+419,Male,31 - 40,Sabaragamuwa,Married,Indep,71000,0
+420,Male,31 - 40,Sabaragamuwa,Married,Indep,70000,0
+421,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+422,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+423,Male,31 - 40,Sabaragamuwa,Married,Indep,75000,0
+424,Male,31 - 40,Sabaragamuwa,Married,Indep,90000,0
+425,Male,31 - 40,Sabaragamuwa,Married,Indep,85000,0
+426,Male,31 - 40,Sabaragamuwa,Married,Indep,100000,0
+427,Male,31 - 40,Sabaragamuwa,Married,Indep,110000,0
+428,Male,31 - 40,Sabaragamuwa,Married,Indep,63000,0
+429,Male,31 - 40,Sabaragamuwa,Married,Indep,67000,0
+430,Male,31 - 40,Sabaragamuwa,Married,Indep,71000,0
+431,Male,31 - 40,Sabaragamuwa,Married,Indep,70000,0
+432,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+433,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+434,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+435,Male,31 - 40,Southern,Married,Indep,84000,0
+436,Male,31 - 40,Southern,Married,Indep,76000,0
+437,Male,31 - 40,Southern,Married,Indep,66000,0
+438,Male,31 - 40,Southern,Married,Indep,97500,1000
+439,Male,31 - 40,Central,Married,Indep,250000,0
+440,Male,31 - 40,Central,Married,Indep,100000,0
+441,Male,31 - 40,Central,Married,Indep,200000,0
+442,Male,31 - 40,Central,Married,Indep,140000,1500
+443,Male,31 - 40,Central,Married,Indep,55000,0
+444,Male,31 - 40,Central,Married,Indep,67000,0
+445,Male,31 - 40,Central,Married,Indep,49000,0
+446,Male,31 - 40,Central,Married,Indep,38000,800
+447,Male,31 - 40,Central,Married,Indep,90000,0
+448,Male,31 - 40,Central,Married,Indep,135000,1500
+449,Male,31 - 40,Central,Married,Indep,155000,1500
+450,Male,31 - 40,Central,Married,Indep,39000,1000
+451,Male,31 - 40,Central,Married,Indep,37000,800
+452,Male,31 - 40,Central,Married,Indep,42000,1000
+453,Male,31 - 40,Central,Married,Indep,71000,1000
+454,Male,31 - 40,Western,Married,Indep,50000,0
+455,Male,31 - 40,Western,Married,Indep,58000,0
+456,Male,31 - 40,Western,Married,Indep,60000,0
+457,Male,31 - 40,Western,Married,Indep,65000,0
+458,Male,31 - 40,Western,Married,Indep,70000,1000
+459,Male,31 - 40,Western,Married,Indep,75000,0
+460,Male,31 - 40,Western,Married,Indep,80000,0
+461,Male,31 - 40,Western,Married,Indep,130000,1000
+462,Male,31 - 40,Western,Married,Indep,120000,0
+463,Male,31 - 40,Western,Married,Indep,200000,0
+464,Male,31 - 40,Western,Married,Indep,300000,0
+465,Male,31 - 40,Central,Married,Indep,450000,0
+466,Male,31 - 40,Central,Married,Indep,50000,0
+467,Male,31 - 40,Central,Married,Indep,58000,0
+468,Male,31 - 40,Central,Married,Indep,60000,0
+469,Male,31 - 40,Central,Married,Indep,62000,0
+470,Male,31 - 40,Western,Married,Indep,400000,0
+471,Male,31 - 40,Western,Married,Indep,320000,0
+472,Male,31 - 40,Western,Married,Indep,500000,0
+473,Female,18 - 25,Southern,Single,Dependant,0,2000
+474,Female,18 - 25,Southern,Single,Indep,30000,2000
+475,Female,26 - 30,Southern,Married,Indep,68000,2000
+476,Male,31 - 40,Southern,Married,Indep,70000,0
+477,Female,18 - 25,Western,Single,Indep,15000,2000
+478,Female,26 - 30,Southern,Single,Indep,100000,2000
+479,Male,18 - 25,Southern,Single,Indep,100000,0
+480,Female,26 - 30,Western,Single,Indep,30000,0
+481,Female,26 - 30,Western,Married,Indep,60000,3000
+482,Female,18 - 25,Western,Single,Dependant,0,0
+483,Female,26 - 30,Uva,Married,Indep,69000,0
+484,Male,18 - 25,Western,Single,Dependant,0,0
+485,Female,18 - 25,Southern,Single,Dependant,0,3000
+486,Female,26 - 30,Western,Single,Indep,70000,0
+487,Female,18 - 25,Western,Single,Dependant,0,5000
+488,Female,18 - 25,Southern,Single,Dependant,0,3000
+489,Female,18 - 25,Western,Single,Dependant,0,2000
+490,Female,18 - 25,Southern,Single,Dependant,0,0
+491,Female,18 - 25,Southern,Single,Dependant,0,3000
+492,Female,18 - 25,Southern,Single,Indep,130000,6000
+493,Female,18 - 25,Southern,Single,Dependant,0,0
+494,Female,18 - 25,Southern,Single,Indep,30000,2000
+495,Female,26 - 30,North Western,Single,Dependant,0,2500
+496,Female,26 - 30,Western,Single,Indep,70000,2000
+497,Female,18 - 25,Western,Married,Indep,150000,4000
+498,Female,18 - 25,Southern,Single,Dependant,0,2000
+499,Male,18 - 25,Western,Single,Dependant,0,0
+500,Male,18 - 25,Western,Single,Indep,80000,0
+501,Female,18 - 25,Southern,Single,Dependant,0,2500
+502,Male,18 - 25,Western,Single,Dependant,0,1000
+503,Male,18 - 25,Western,Single,Indep,100000,0
+504,Female,18 - 25,Western,Single,Dependant,0,300
+505,Female,18 - 25,Southern,Single,Indep,40000,0
+506,Male,18 - 25,Western,Single,Dependant,0,0
+507,Female,26 - 30,Western,Single,Indep,35000,3000
+508,Female,18 - 25,Western,Single,Indep,30000,0
+509,Female,26 - 30,Western,Single,Indep,30000,0
+510,Female,26 - 30,Western,Single,Indep,30000,1000
+511,Female,18 - 25,Western,Single,Indep,32000,0
+512,Male,18 - 25,Western,Single,Indep,30000,0
+513,Female,18 - 25,Western,Single,Indep,150000,0
+514,Male,18 - 25,Western,Single,Indep,20000,0
+515,Female,26 - 30,Western,Single,Dependant,0,0
+516,Male,18 - 25,Western,Single,Dependant,0,0
+517,Male,18 - 25,Western,Single,Indep,50000,1000
+518,Female,18 - 25,Southern,Single,Dependant,0,0
+519,Female,18 - 25,Central,Single,Dependant,0,4000
+520,Female,18 - 25,Western,Single,Indep,25000,2000
+521,Male,18 - 25,Western,Single,Dependant,0,0
+522,Male,18 - 25,Western,Single,Dependant,0,0
+523,Male,26 - 30,Western,Single,Indep,120000,1000
+524,Male,18 - 25,Western,Single,Indep,20000,500
+525,Male,18 - 25,Southern,Single,Dependant,0,0
+526,Female,18 - 25,Western,Single,Dependant,0,5000
+527,Female,18 - 25,Southern,Single,Indep,10000,0
+528,Female,18 - 25,Central,Single,Dependant,0,3000
+529,Female,18 - 25,North Western,Single,Indep,50000,3000
+530,Male,18 - 25,Sabaragamuwa,Single,Indep,40000,1000
+531,Male,18 - 25,Southern,Single,Dependant,0,1000
+532,Female,18 - 25,Southern,Single,Dependant,0,0
+533,Female,18 - 25,Southern,Single,Indep,27000,3000
+534,Female,18 - 25,Southern,Single,Dependant,0,1000
+535,Male,18 - 25,Western,Single,Indep,20000,500
+536,Female,18 - 25,Sabaragamuwa,Single,Indep,150000,0
+537,Male,18 - 25,Western,Single,Indep,15000,2000
+538,Female,18 - 25,Southern,Single,Dependant,0,0
+539,Female,18 - 25,Central,Single,Indep,200000,25000
+540,Female,18 - 25,Southern,Single,Dependant,0,0
+541,Female,18 - 25,Western,Single,Indep,34000,3000
+542,Female,26 - 30,Southern,Single,Indep,25000,1500
+543,Male,18 - 25,Western,Single,Dependant,0,0
+544,Male,18 - 25,Sabaragamuwa,Married,Indep,200000,3500
+545,Male,26 - 30,Southern,Single,Indep,330000,0
+546,Male,26 - 30,Western,Married,Indep,100000,0
+547,Male,26 - 30,Western,Single,Indep,170000,0
+548,Male,18 - 25,Western,Single,Indep,40000,0
+549,Male,26 - 30,Southern,Married,Indep,60000,1500
+550,Male,26 - 30,Southern,Single,Indep,550000,0
+551,Male,26 - 30,Southern,Married,Indep,105000,0
+552,Male,26 - 30,Southern,Single,Indep,600000,0
+553,Male,18 - 25,Western,Single,Indep,45000,0
+554,Male,26 - 30,Southern,Single,Indep,400000,0
+555,Female,18 - 25,Southern,Single,Dependant,0,4000
+556,Male,18 - 25,Western,Single,Indep,20000,0
+557,Female,18 - 25,Southern,Single,Dependant,0,500
+558,Male,18 - 25,Western,Single,Dependant,0,0
+559,Male,26 - 30,Sabaragamuwa,Single,Indep,45000,0
+560,Female,Below 18,Eastern,Single,Dependant,0,1000
+561,Male,Below 18,Southern,Single,Dependant,0,0
+562,Male,Below 18,Western,Single,Dependant,0,0
+563,Female,18 - 25,Southern,Single,Dependant,0,0
+564,Female,26 - 30,Western,Single,Dependant,0,1000
+565,Female,18 - 25,Southern,Single,Indep,30000,3000
+566,Female,18 - 25,Southern,Single,Indep,15000,5000
+567,Female,18 - 25,Southern,Single,Indep,30000,0
+568,Female,18 - 25,Central,Married,Dependant,0,0
+569,Female,18 - 25,Central,Single,Dependant,0,3000
+570,Female,18 - 25,Western,Single,Dependant,0,2000
+571,Female,18 - 25,Western,Single,Dependant,0,3000
+572,Male,31 - 40,Southern,Single,Indep,120000,5000
+573,Female,18 - 25,Central,Married,Indep,90000,6000
+574,Female,18 - 25,Western,Single,Indep,35000,3500
+575,Male,18 - 25,Western,Single,Indep,50000,0
+576,Female,18 - 25,Southern,Single,Dependant,0,3000
+577,Female,18 - 25,Western,Single,Dependant,0,500
+578,Female,18 - 25,Southern,Single,Indep,30000,250
+579,Female,18 - 25,Western,Single,Dependant,0,5000
+580,Female,18 - 25,Southern,Single,Indep,22000,0
+581,Female,18 - 25,Southern,Single,Indep,50000,2500
+582,Female,26 - 30,North Western,Single,Indep,140000,2000
+583,Female,26 - 30,Southern,Single,Dependant,0,0
+584,Female,26 - 30,Southern,Single,Indep,60000,0
+585,Female,26 - 30,Southern,Single,Dependant,0,1000
+586,Female,31 - 40,North Central,Single,Indep,55000,1500
+587,Female,31 - 40,North Central,Single,Indep,50000,1500
+588,Female,31 - 40,North Central,Single,Indep,67000,2000
+589,Female,31 - 40,Central,Married,Indep,67000,2000
+590,Female,31 - 40,Western,Married,Indep,48000,1500
+591,Female,31 - 40,Western,Married,Indep,50000,2000
+592,Female,31 - 40,Western,Married,Indep,90000,2500
+593,Female,31 - 40,Western,Married,Indep,100000,3000
+594,Female,31 - 40,Eastern,Married,Indep,60000,2000
+595,Female,31 - 40,Eastern,Married,Indep,55000,2000
+596,Female,18 - 25,Eastern,Single,Indep,30000,2000
+597,Female,18 - 25,Eastern,Single,Indep,35000,1500
+598,Female,18 - 25,Uva,Single,Indep,25000,1500
+599,Female,18 - 25,Uva,Single,Indep,30000,1000
+600,Female,18 - 25,Uva,Single,Indep,15000,1000
+601,Female,18 - 25,Uva,Single,Indep,15000,1000
+602,Female,18 - 25,North Western,Single,Indep,20000,2000
+603,Female,18 - 25,North Western,Single,Indep,45000,2000
+604,Female,18 - 25,Southern,Single,Indep,41000,2000
+605,Female,18 - 25,Southern,Single,Indep,25000,1800
+606,Female,18 - 25,Southern,Single,Indep,38000,2000
+607,Female,18 - 25,Southern,Single,Indep,28000,2000
+608,Female,18 - 25,Southern,Single,Indep,35000,2500
+609,Female,18 - 25,Central,Single,Indep,85000,4000
+610,Female,18 - 25,Central,Single,Indep,65000,2500
+611,Female,18 - 25,North Central,Single,Indep,28000,1500
+612,Female,18 - 25,North Central,Single,Indep,30000,1500
+613,Female,18 - 25,North Central,Single,Indep,30000,1500
+614,Female,18 - 25,Nothern,Single,Indep,20000,1000
+615,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+616,Female,Below 18,Sabaragamuwa,Single,Indep,15000,1500
+617,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1000
+618,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+619,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+620,Female,Below 18,Southern,Single,Dependant,0,2000
+621,Female,Below 18,Southern,Single,Dependant,0,2000
+622,Female,Below 18,Southern,Single,Dependant,0,1500
+623,Female,Below 18,Southern,Single,Dependant,0,1500
+624,Female,Below 18,Southern,Single,Dependant,0,1500
+625,Female,Below 18,Southern,Single,Dependant,0,2000
+626,Female,Below 18,Southern,Single,Dependant,0,1500
+627,Female,Below 18,Southern,Single,Dependant,0,2000
+628,Female,Below 18,Southern,Single,Dependant,0,1500
+629,Female,Below 18,Southern,Single,Dependant,0,1500
+630,Female,Below 18,Southern,Single,Dependant,0,1500
+631,Female,Below 18,Southern,Single,Dependant,0,2000
+632,Female,Below 18,Southern,Single,Dependant,0,2000
+633,Female,Below 18,Southern,Single,Dependant,0,2000
+634,Female,Below 18,Southern,Single,Dependant,0,2000
+635,Female,Below 18,Southern,Single,Dependant,0,1500
+636,Female,Below 18,Central,Single,Dependant,0,1000
+637,Female,Below 18,Central,Single,Dependant,0,900
+638,Female,Below 18,Central,Single,Dependant,0,1000
+639,Female,Below 18,Central,Single,Dependant,0,1500
+640,Female,Below 18,Central,Single,Dependant,0,2000
+641,Female,Below 18,Central,Single,Dependant,0,4000
+642,Female,Below 18,Central,Single,Dependant,0,3500
+643,Female,Below 18,Central,Single,Dependant,0,3000
+644,Female,Below 18,Central,Single,Dependant,0,2500
+645,Female,Below 18,Central,Single,Dependant,0,3000
+646,Female,Below 18,Western,Single,Dependant,0,2000
+647,Female,Below 18,Western,Single,Dependant,0,3000
+648,Female,Below 18,Western,Single,Dependant,0,4000
+649,Female,Below 18,Western,Single,Dependant,0,4000
+650,Female,Below 18,Western,Single,Dependant,0,2000
+651,Female,Below 18,Western,Single,Dependant,0,5000
+652,Female,Below 18,Western,Single,Dependant,0,2000
+653,Female,Below 18,Western,Single,Dependant,0,2500
+654,Female,Below 18,Western,Single,Dependant,0,5000
+655,Female,Below 18,Western,Single,Dependant,0,4000
+656,Female,Below 18,Western,Single,Dependant,0,4000
+657,Female,Below 18,Central,Single,Dependant,0,4000
+658,Female,Below 18,Central,Single,Dependant,0,2500
+659,Female,Below 18,Central,Single,Dependant,0,2000
+660,Female,Below 18,Central,Single,Dependant,0,2000
+661,Female,Below 18,Central,Single,Dependant,0,1500
+662,Female,Below 18,Central,Single,Dependant,0,2000
+663,Female,Below 18,Central,Single,Dependant,0,2000
+664,Female,Below 18,Central,Single,Dependant,0,2000
+665,Female,Below 18,Central,Single,Dependant,0,2000
+666,Female,Below 18,Western,Single,Dependant,0,2500
+667,Female,Below 18,Western,Single,Dependant,0,3000
+668,Female,Below 18,Western,Single,Dependant,0,5000
+669,Female,Below 18,North Western,Single,Dependant,0,1000
+670,Female,Below 18,North Western,Single,Dependant,0,1500
+671,Female,Below 18,North Western,Single,Dependant,0,1000
+672,Female,26 - 30,North Central,Single,Indep,30000,1500
+673,Female,26 - 30,North Central,Single,Indep,38000,1500
+674,Female,26 - 30,North Central,Single,Indep,35000,1500
+675,Female,26 - 30,Uva,Single,Indep,35000,1500
+676,Female,26 - 30,Uva,Single,Indep,40000,1500
+677,Female,26 - 30,Uva,Single,Indep,40000,1500
+678,Female,26 - 30,North Western,Single,Indep,65000,2500
+679,Female,26 - 30,North Western,Single,Indep,30000,2000
+680,Female,26 - 30,Sabaragamuwa,Single,Indep,42000,1500
+681,Female,26 - 30,Sabaragamuwa,Single,Indep,41000,1500
+682,Female,26 - 30,Sabaragamuwa,Single,Indep,40000,1500
+683,Female,26 - 30,Sabaragamuwa,Single,Indep,56000,1500
+684,Female,26 - 30,Sabaragamuwa,Single,Indep,55000,1500
+685,Female,26 - 30,Sabaragamuwa,Single,Indep,58000,1500
+686,Female,26 - 30,Sabaragamuwa,Single,Indep,63000,1500
+687,Female,26 - 30,Sabaragamuwa,Single,Indep,67000,1500
+688,Female,26 - 30,Sabaragamuwa,Single,Indep,71000,1500
+689,Female,26 - 30,Sabaragamuwa,Single,Indep,70000,1500
+690,Female,26 - 30,Sabaragamuwa,Single,Indep,72000,1500
+691,Female,26 - 30,Sabaragamuwa,Single,Indep,42000,1500
+692,Female,26 - 30,Sabaragamuwa,Single,Indep,41000,1500
+693,Female,26 - 30,Sabaragamuwa,Single,Indep,40000,1500
+694,Female,26 - 30,Sabaragamuwa,Single,Indep,56000,1500
+695,Female,26 - 30,Sabaragamuwa,Single,Indep,55000,1500
+696,Female,26 - 30,Sabaragamuwa,Single,Indep,58000,2000
+697,Female,26 - 30,Sabaragamuwa,Single,Indep,63000,2000
+698,Female,26 - 30,Sabaragamuwa,Single,Indep,67000,2000
+699,Female,26 - 30,Sabaragamuwa,Single,Indep,71000,2000
+700,Female,26 - 30,Sabaragamuwa,Single,Indep,170000,3000
+701,Female,26 - 30,Southern,Single,Indep,45000,1800
+702,Female,26 - 30,Southern,Single,Indep,48000,1800
+703,Female,26 - 30,Southern,Single,Indep,38000,1500
+704,Female,26 - 30,Southern,Single,Indep,67000,2000
+705,Female,26 - 30,Southern,Single,Indep,70000,2000
+706,Female,26 - 30,Southern,Single,Indep,88000,2500
+707,Female,26 - 30,Southern,Single,Indep,75000,2000
+708,Female,26 - 30,Southern,Single,Indep,55000,2000
+709,Female,26 - 30,Southern,Single,Indep,60000,1800
+710,Female,26 - 30,Southern,Single,Indep,110000,5000
+711,Female,26 - 30,Southern,Single,Indep,95000,4000
+712,Female,26 - 30,Central,Single,Indep,55000,1500
+713,Female,26 - 30,Central,Single,Indep,45000,1500
+714,Female,26 - 30,Central,Single,Indep,80000,1800
+715,Female,26 - 30,Central,Single,Indep,65000,1500
+716,Female,26 - 30,Central,Single,Indep,130000,2500
+717,Female,26 - 30,Central,Single,Indep,100000,2500
+718,Female,26 - 30,Central,Single,Indep,75000,2000
+719,Female,26 - 30,Central,Single,Indep,35000,1000
+720,Female,26 - 30,Central,Single,Indep,28000,1000
+721,Female,26 - 30,Central,Single,Indep,45000,1500
+722,Female,26 - 30,Central,Single,Indep,58000,1500
+723,Female,26 - 30,Central,Single,Dependant,0,4000
+724,Female,26 - 30,Central,Single,Dependant,0,3000
+725,Female,26 - 30,Central,Single,Dependant,0,2500
+726,Female,26 - 30,Central,Single,Dependant,0,3000
+727,Female,26 - 30,Western,Single,Indep,62000,2000
+728,Female,26 - 30,Western,Single,Indep,70000,2500
+729,Female,26 - 30,Western,Married,Indep,35000,1500
+730,Female,26 - 30,Western,Married,Indep,40000,1500
+731,Female,26 - 30,Western,Married,Indep,52000,2000
+732,Female,26 - 30,Western,Married,Indep,70000,2500
+733,Female,26 - 30,Western,Married,Indep,80000,3000
+734,Female,26 - 30,Central,Married,Indep,65000,1800
+735,Female,26 - 30,Central,Married,Indep,70000,1500
+736,Female,26 - 30,Central,Married,Indep,38000,1000
+737,Female,26 - 30,Central,Single,Indep,95000,2500
+738,Female,26 - 30,Central,Single,Indep,80000,2000
+739,Female,26 - 30,Western,Single,Indep,120000,3000
+740,Female,26 - 30,Western,Single,Indep,60000,3000
+741,Female,31 - 40,Western,Single,Indep,72000,2500
+742,Female,31 - 40,Nothern,Married,Indep,58000,1000
+743,Female,31 - 40,Nothern,Married,Indep,63000,900
+744,Female,31 - 40,North Central,Married,Indep,57000,1500
+745,Female,31 - 40,North Central,Married,Indep,63000,1500
+746,Female,31 - 40,North Western,Married,Indep,120000,3000
+747,Female,31 - 40,North Western,Married,Indep,70000,2500
+748,Female,31 - 40,Sabaragamuwa,Married,Indep,65000,1500
+749,Female,31 - 40,Sabaragamuwa,Married,Indep,80000,2000
+750,Female,31 - 40,Sabaragamuwa,Married,Indep,61000,1500
+751,Female,31 - 40,Sabaragamuwa,Married,Indep,75000,2000
+752,Female,31 - 40,Sabaragamuwa,Married,Indep,70000,1500
+753,Female,31 - 40,Western,Married,Indep,38000,1500
+754,Female,31 - 40,Western,Married,Indep,120000,2500
+755,Female,31 - 40,Western,Married,Indep,150000,3000
+756,Female,31 - 40,Western,Married,Indep,180000,4000
+757,Female,31 - 40,Central,Married,Dependant,0,2500
+758,Female,31 - 40,Eastern,Married,Indep,30000,2000
+759,Male,18 - 25,Eastern,Single,Dependant,0,1000
+760,Male,18 - 25,Eastern,Single,Indep,25000,0
+761,Male,18 - 25,North Central,Single,Indep,15000,0
+762,Male,18 - 25,North Central,Single,Indep,15000,0
+763,Male,18 - 25,North Central,Single,Indep,20000,2000
+764,Male,18 - 25,Uva,Single,Indep,20000,0
+765,Male,18 - 25,Uva,Single,Indep,25000,0
+766,Male,18 - 25,Uva,Single,Indep,30000,0
+767,Male,18 - 25,Uva,Single,Indep,30000,0
+768,Male,18 - 25,Sabaragamuwa,Single,Indep,25000,0
+769,Male,18 - 25,Sabaragamuwa,Single,Indep,27000,0
+770,Male,18 - 25,Sabaragamuwa,Single,Indep,29000,0
+771,Male,18 - 25,Sabaragamuwa,Single,Indep,30000,0
+772,Male,18 - 25,Sabaragamuwa,Single,Indep,32000,0
+773,Male,18 - 25,Central,Single,Dependant,0,0
+774,Male,18 - 25,Central,Single,Dependant,0,0
+775,Male,18 - 25,Nothern,Single,Dependant,0,0
+776,Male,18 - 25,Nothern,Single,Dependant,0,0
+777,Male,Below 18,Southern,Single,Dependant,0,0
+778,Male,Below 18,Southern,Single,Dependant,0,0
+779,Male,Below 18,Southern,Single,Dependant,0,0
+780,Male,Below 18,Southern,Single,Dependant,0,0
+781,Male,Below 18,Southern,Single,Dependant,0,0
+782,Male,Below 18,Southern,Single,Dependant,0,0
+783,Male,Below 18,Southern,Single,Dependant,0,0
+784,Male,Below 18,Southern,Single,Dependant,0,0
+785,Male,Below 18,Southern,Single,Dependant,0,0
+786,Male,Below 18,Southern,Single,Dependant,0,0
+787,Male,Below 18,Southern,Single,Dependant,0,0
+788,Male,Below 18,Southern,Single,Dependant,0,0
+789,Male,Below 18,Southern,Single,Dependant,0,0
+790,Male,Below 18,Southern,Single,Dependant,0,0
+791,Male,Below 18,Southern,Single,Dependant,0,0
+792,Male,Below 18,Central,Single,Dependant,0,0
+793,Male,Below 18,Central,Single,Dependant,0,0
+794,Male,Below 18,Central,Single,Dependant,0,0
+795,Male,Below 18,Central,Single,Dependant,0,0
+796,Male,Below 18,Central,Single,Dependant,0,0
+797,Male,Below 18,Western,Single,Dependant,0,0
+798,Male,Below 18,Western,Single,Dependant,0,0
+799,Male,Below 18,Western,Single,Dependant,0,0
+800,Male,Below 18,Western,Single,Dependant,0,0
+801,Male,Below 18,Central,Single,Dependant,0,0
+802,Male,Below 18,Central,Single,Dependant,0,0
+803,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+804,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+805,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+806,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+807,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+808,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+809,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+810,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+811,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+812,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+813,Male,Below 18,Sabaragamuwa,Single,Indep,12000,0
+814,Male,26 - 30,Eastern,Single,Indep,35000,0
+815,Male,26 - 30,Eastern,Single,Indep,30000,0
+816,Male,26 - 30,Eastern,Single,Indep,40000,0
+817,Male,26 - 30,North Central,Single,Indep,38000,0
+818,Male,26 - 30,North Central,Single,Indep,42000,0
+819,Male,26 - 30,North Central,Single,Indep,45000,0
+820,Male,26 - 30,Uva,Single,Indep,45000,0
+821,Male,26 - 30,Uva,Single,Indep,30000,0
+822,Male,26 - 30,Uva,Single,Indep,25000,0
+823,Male,26 - 30,Uva,Single,Indep,35000,0
+824,Male,26 - 30,Uva,Single,Indep,40000,0
+825,Male,26 - 30,North Western,Single,Indep,60000,0
+826,Male,26 - 30,North Western,Single,Indep,55000,0
+827,Male,26 - 30,North Western,Single,Indep,58000,0
+828,Male,26 - 30,North Western,Single,Indep,55000,0
+829,Male,26 - 30,North Western,Single,Indep,45000,0
+830,Male,26 - 30,North Western,Single,Indep,30000,0
+831,Male,26 - 30,Sabaragamuwa,Single,Indep,42000,0
+832,Male,26 - 30,Sabaragamuwa,Single,Indep,41000,0
+833,Male,26 - 30,Sabaragamuwa,Single,Indep,40000,0
+834,Male,26 - 30,Sabaragamuwa,Single,Indep,56000,0
+835,Male,26 - 30,Sabaragamuwa,Single,Indep,55000,0
+836,Male,26 - 30,Sabaragamuwa,Single,Indep,58000,0
+837,Male,26 - 30,Sabaragamuwa,Single,Indep,63000,0
+838,Male,26 - 30,Sabaragamuwa,Single,Indep,67000,0
+839,Male,26 - 30,Sabaragamuwa,Single,Indep,71000,0
+840,Male,26 - 30,Sabaragamuwa,Single,Indep,70000,0
+841,Male,26 - 30,Southern,Single,Indep,65000,0
+842,Male,26 - 30,Southern,Single,Indep,60000,0
+843,Male,26 - 30,Southern,Single,Indep,150000,1500
+844,Male,26 - 30,Southern,Single,Indep,125000,2000
+845,Male,26 - 30,Southern,Single,Indep,85000,1000
+846,Male,26 - 30,Central,Single,Indep,90000,0
+847,Male,26 - 30,Central,Single,Indep,95000,1000
+848,Male,26 - 30,Central,Single,Indep,85000,0
+849,Male,26 - 30,Central,Single,Indep,120000,2000
+850,Male,26 - 30,Central,Single,Indep,100000,1800
+851,Male,26 - 30,Western,Single,Indep,48000,1000
+852,Male,26 - 30,Western,Single,Indep,55000,1000
+853,Male,26 - 30,Western,Single,Indep,65000,1000
+854,Male,26 - 30,Western,Married,Indep,72000,0
+855,Male,26 - 30,Western,Married,Indep,90000,0
+856,Male,26 - 30,Central,Single,Indep,45000,0
+857,Male,26 - 30,Central,Single,Indep,55000,1000
+858,Male,26 - 30,Western,Single,Indep,70000,1000
+859,Male,26 - 30,Western,Single,Indep,90000,2000
+860,Male,18 - 25,Sabaragamuwa,Single,Indep,72000,0
+861,Male,18 - 25,Sabaragamuwa,Single,Indep,42000,0
+862,Male,18 - 25,Sabaragamuwa,Single,Indep,41000,0
+863,Male,18 - 25,Central,Single,Indep,25000,0
+864,Male,18 - 25,Central,Single,Indep,35000,800
+865,Male,18 - 25,Central,Single,Indep,42000,1000
+866,Male,18 - 25,Central,Single,Indep,55000,0
+867,Male,18 - 25,Central,Single,Indep,75000,1500
+868,Male,18 - 25,Western,Single,Indep,20000,0
+869,Male,18 - 25,Western,Single,Indep,32000,0
+870,Male,31 - 40,Western,Single,Indep,65000,0
+871,Male,31 - 40,Western,Single,Indep,80000,0
+872,Male,31 - 40,Western,Single,Indep,160000,1000
+873,Male,31 - 40,Central,Single,Indep,500000,0
+874,Male,31 - 40,Central,Single,Indep,110000,2000
+875,Male,31 - 40,Central,Single,Indep,580000,0
+876,Male,31 - 40,Central,Single,Indep,370000,0
+877,Male,31 - 40,Western,Single,Indep,250000,1000
+878,Male,31 - 40,Sabaragamuwa,Single,Indep,40000,0
+879,Male,31 - 40,Sabaragamuwa,Single,Indep,56000,0
+880,Male,31 - 40,Sabaragamuwa,Single,Indep,55000,0
+881,Male,31 - 40,Sabaragamuwa,Single,Indep,58000,0
+882,Male,31 - 40,Sabaragamuwa,Single,Indep,63000,0
+883,Male,31 - 40,Eastern,Married,Indep,58000,0
+884,Male,31 - 40,Uva,Married,Indep,67000,0
+885,Male,31 - 40,Uva,Married,Indep,64000,0
+886,Male,31 - 40,North Western,Married,Indep,55000,0
+887,Male,31 - 40,North Western,Married,Indep,50000,0
+888,Male,31 - 40,North Western,Married,Indep,60000,0
+889,Male,31 - 40,Sabaragamuwa,Married,Indep,58000,0
+890,Male,31 - 40,Sabaragamuwa,Married,Indep,63000,0
+891,Male,31 - 40,Sabaragamuwa,Married,Indep,67000,0
+892,Male,31 - 40,Sabaragamuwa,Married,Indep,71000,0
+893,Male,31 - 40,Sabaragamuwa,Married,Indep,70000,0
+894,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+895,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+896,Male,31 - 40,Sabaragamuwa,Married,Indep,75000,0
+897,Male,31 - 40,Sabaragamuwa,Married,Indep,90000,0
+898,Male,31 - 40,Sabaragamuwa,Married,Indep,85000,0
+899,Male,31 - 40,Sabaragamuwa,Married,Indep,100000,0
+900,Male,31 - 40,Sabaragamuwa,Married,Indep,110000,0
+901,Male,31 - 40,Sabaragamuwa,Married,Indep,63000,0
+902,Male,31 - 40,Sabaragamuwa,Married,Indep,67000,0
+903,Male,31 - 40,Sabaragamuwa,Married,Indep,71000,0
+904,Male,31 - 40,Sabaragamuwa,Married,Indep,70000,0
+905,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+906,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+907,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+908,Male,31 - 40,Southern,Married,Indep,84000,0
+909,Male,31 - 40,Southern,Married,Indep,76000,0
+910,Male,31 - 40,Southern,Married,Indep,66000,0
+911,Male,31 - 40,Southern,Married,Indep,97500,1000
+912,Male,31 - 40,Central,Married,Indep,250000,0
+913,Male,31 - 40,Central,Married,Indep,100000,0
+914,Male,31 - 40,Central,Married,Indep,200000,0
+915,Male,31 - 40,Central,Married,Indep,140000,1500
+916,Male,31 - 40,Central,Married,Indep,55000,0
+917,Male,31 - 40,Central,Married,Indep,67000,0
+918,Male,31 - 40,Central,Married,Indep,49000,0
+919,Male,31 - 40,Central,Married,Indep,38000,800
+920,Male,31 - 40,Central,Married,Indep,90000,0
+921,Male,31 - 40,Central,Married,Indep,135000,1500
+922,Male,31 - 40,Central,Married,Indep,155000,1500
+923,Male,31 - 40,Central,Married,Indep,39000,1000
+924,Male,31 - 40,Central,Married,Indep,37000,800
+925,Male,31 - 40,Central,Married,Indep,42000,1000
+926,Male,31 - 40,Central,Married,Indep,71000,1000
+927,Male,31 - 40,Western,Married,Indep,50000,0
+928,Male,31 - 40,Western,Married,Indep,58000,0
+929,Male,31 - 40,Western,Married,Indep,60000,0
+930,Male,31 - 40,Western,Married,Indep,65000,0
+931,Male,31 - 40,Western,Married,Indep,70000,1000
+932,Male,31 - 40,Western,Married,Indep,75000,0
+933,Male,31 - 40,Western,Married,Indep,80000,0
+934,Male,31 - 40,Western,Married,Indep,130000,1000
+935,Male,31 - 40,Western,Married,Indep,120000,0
+936,Male,31 - 40,Western,Married,Indep,200000,0
+937,Male,31 - 40,Western,Married,Indep,300000,0
+938,Male,31 - 40,Central,Married,Indep,450000,0
+939,Male,31 - 40,Central,Married,Indep,50000,0
+940,Male,31 - 40,Central,Married,Indep,58000,0
+941,Male,31 - 40,Central,Married,Indep,60000,0
+942,Male,31 - 40,Central,Married,Indep,62000,0
+943,Male,31 - 40,Western,Married,Indep,400000,0
+944,Male,31 - 40,Western,Married,Indep,320000,0
+945,Male,31 - 40,Western,Married,Indep,500000,0
+946,Female,18 - 25,Southern,Single,Dependant,0,2000
+947,Female,18 - 25,Southern,Single,Indep,30000,2000
+948,Female,26 - 30,Southern,Married,Indep,68000,2000
+949,Male,31 - 40,Southern,Married,Indep,70000,0
+950,Female,18 - 25,Western,Single,Indep,15000,2000
+951,Female,26 - 30,Southern,Single,Indep,100000,2000
+952,Male,18 - 25,Southern,Single,Indep,100000,0
+953,Female,26 - 30,Western,Single,Indep,30000,0
+954,Female,26 - 30,Western,Married,Indep,60000,3000
+955,Female,18 - 25,Western,Single,Dependant,0,0
+956,Female,26 - 30,Uva,Married,Indep,69000,0
+957,Male,18 - 25,Western,Single,Dependant,0,0
+958,Female,18 - 25,Southern,Single,Dependant,0,3000
+959,Female,26 - 30,Western,Single,Indep,70000,0
+960,Female,18 - 25,Western,Single,Dependant,0,5000
+961,Female,18 - 25,Southern,Single,Dependant,0,3000
+962,Female,18 - 25,Western,Single,Dependant,0,2000
+963,Female,18 - 25,Southern,Single,Dependant,0,0
+964,Female,18 - 25,Southern,Single,Dependant,0,3000
+965,Female,18 - 25,Southern,Single,Indep,130000,6000
+966,Female,18 - 25,Southern,Single,Dependant,0,0
+967,Female,18 - 25,Southern,Single,Indep,30000,2000
+968,Female,26 - 30,North Western,Single,Dependant,0,2500
+969,Female,26 - 30,Western,Single,Indep,70000,2000
+970,Female,18 - 25,Western,Married,Indep,150000,4000
+971,Female,18 - 25,Southern,Single,Dependant,0,2000
+972,Male,18 - 25,Western,Single,Dependant,0,0
+973,Male,18 - 25,Western,Single,Indep,80000,0
+974,Female,18 - 25,Southern,Single,Dependant,0,2500
+975,Male,18 - 25,Western,Single,Dependant,0,1000
+976,Male,18 - 25,Western,Single,Indep,100000,0
+977,Female,18 - 25,Western,Single,Dependant,0,300
+978,Female,18 - 25,Southern,Single,Indep,40000,0
+979,Male,18 - 25,Western,Single,Dependant,0,0
+980,Female,26 - 30,Western,Single,Indep,35000,3000
+981,Female,18 - 25,Western,Single,Indep,30000,0
+982,Female,26 - 30,Western,Single,Indep,30000,0
+983,Female,26 - 30,Western,Single,Indep,30000,1000
+984,Female,18 - 25,Western,Single,Indep,32000,0
+985,Male,18 - 25,Western,Single,Indep,30000,0
+986,Female,18 - 25,Western,Single,Indep,150000,0
+987,Male,18 - 25,Western,Single,Indep,20000,0
+988,Female,26 - 30,Western,Single,Dependant,0,0
+989,Male,18 - 25,Western,Single,Dependant,0,0
+990,Male,18 - 25,Western,Single,Indep,50000,1000
+991,Female,18 - 25,Southern,Single,Dependant,0,0
+992,Female,18 - 25,Central,Single,Dependant,0,4000
+993,Female,18 - 25,Western,Single,Indep,25000,2000
+994,Male,18 - 25,Western,Single,Dependant,0,0
+995,Male,18 - 25,Western,Single,Dependant,0,0
+996,Male,26 - 30,Western,Single,Indep,120000,1000
+997,Male,18 - 25,Western,Single,Indep,20000,500
+998,Male,18 - 25,Southern,Single,Dependant,0,0
+999,Female,18 - 25,Western,Single,Dependant,0,5000
+1000,Female,18 - 25,Southern,Single,Indep,10000,0
+1001,Female,18 - 25,Central,Single,Dependant,0,3000
+1002,Female,18 - 25,North Western,Single,Indep,50000,3000
+1003,Male,18 - 25,Sabaragamuwa,Single,Indep,40000,1000
+1004,Male,18 - 25,Southern,Single,Dependant,0,1000
+1005,Female,18 - 25,Southern,Single,Dependant,0,0
+1006,Female,18 - 25,Southern,Single,Indep,27000,3000
+1007,Female,18 - 25,Southern,Single,Dependant,0,1000
+1008,Male,18 - 25,Western,Single,Indep,20000,500
+1009,Female,18 - 25,Sabaragamuwa,Single,Indep,150000,0
+1010,Male,18 - 25,Western,Single,Indep,15000,2000
+1011,Female,18 - 25,Southern,Single,Dependant,0,0
+1012,Female,18 - 25,Central,Single,Indep,200000,25000
+1013,Female,18 - 25,Southern,Single,Dependant,0,0
+1014,Female,18 - 25,Western,Single,Indep,34000,3000
+1015,Female,26 - 30,Southern,Single,Indep,25000,1500
+1016,Male,18 - 25,Western,Single,Dependant,0,0
+1017,Male,18 - 25,Sabaragamuwa,Married,Indep,200000,3500
+1018,Male,26 - 30,Southern,Single,Indep,330000,0
+1019,Male,26 - 30,Western,Married,Indep,100000,0
+1020,Male,26 - 30,Western,Single,Indep,170000,0
+1021,Male,18 - 25,Western,Single,Indep,40000,0
+1022,Male,26 - 30,Southern,Married,Indep,60000,1500
+1023,Male,26 - 30,Southern,Single,Indep,550000,0
+1024,Male,26 - 30,Southern,Married,Indep,105000,0
+1025,Male,26 - 30,Southern,Single,Indep,600000,0
+1026,Male,18 - 25,Western,Single,Indep,45000,0
+1027,Male,26 - 30,Southern,Single,Indep,400000,0
+1028,Female,18 - 25,Southern,Single,Dependant,0,4000
+1029,Male,18 - 25,Western,Single,Indep,20000,0
+1030,Female,18 - 25,Southern,Single,Dependant,0,500
+1031,Male,18 - 25,Western,Single,Dependant,0,0
+1032,Male,26 - 30,Sabaragamuwa,Single,Indep,45000,0
+1033,Female,Below 18,Eastern,Single,Dependant,0,1000
+1034,Male,Below 18,Southern,Single,Dependant,0,0
+1035,Male,Below 18,Western,Single,Dependant,0,0
+1036,Female,18 - 25,Southern,Single,Dependant,0,0
+1037,Female,26 - 30,Western,Single,Dependant,0,1000
+1038,Female,18 - 25,Southern,Single,Indep,30000,3000
+1039,Female,18 - 25,Southern,Single,Indep,15000,5000
+1040,Female,18 - 25,Southern,Single,Indep,30000,0
+1041,Female,18 - 25,Central,Married,Dependant,0,0
+1042,Female,18 - 25,Central,Single,Dependant,0,3000
+1043,Female,18 - 25,Western,Single,Dependant,0,2000
+1044,Female,18 - 25,Western,Single,Dependant,0,3000
+1045,Male,31 - 40,Southern,Single,Indep,120000,5000
+1046,Female,18 - 25,Central,Married,Indep,90000,6000
+1047,Female,18 - 25,Western,Single,Indep,35000,3500
+1048,Male,18 - 25,Western,Single,Indep,50000,0
+1049,Female,18 - 25,Southern,Single,Dependant,0,3000
+1050,Female,18 - 25,Western,Single,Dependant,0,500
+1051,Female,18 - 25,Southern,Single,Indep,30000,250
+1052,Female,18 - 25,Western,Single,Dependant,0,5000
+1053,Female,18 - 25,Southern,Single,Indep,22000,0
+1054,Female,18 - 25,Southern,Single,Indep,50000,2500
+1055,Female,26 - 30,North Western,Single,Indep,140000,2000
+1056,Female,26 - 30,Southern,Single,Dependant,0,0
+1057,Female,26 - 30,Southern,Single,Indep,60000,0
+1058,Female,26 - 30,Southern,Single,Dependant,0,1000
+1059,Female,31 - 40,North Central,Single,Indep,55000,1500
+1060,Female,31 - 40,North Central,Single,Indep,50000,1500
+1061,Female,31 - 40,North Central,Single,Indep,67000,2000
+1062,Female,31 - 40,Central,Married,Indep,67000,2000
+1063,Female,31 - 40,Western,Married,Indep,48000,1500
+1064,Female,31 - 40,Western,Married,Indep,50000,2000
+1065,Female,31 - 40,Western,Married,Indep,90000,2500
+1066,Female,31 - 40,Western,Married,Indep,100000,3000
+1067,Female,31 - 40,Eastern,Married,Indep,60000,2000
+1068,Female,31 - 40,Eastern,Married,Indep,55000,2000
+1069,Female,18 - 25,Eastern,Single,Indep,30000,2000
+1070,Female,18 - 25,Eastern,Single,Indep,35000,1500
+1071,Female,18 - 25,Uva,Single,Indep,25000,1500
+1072,Female,18 - 25,Uva,Single,Indep,30000,1000
+1073,Female,18 - 25,Uva,Single,Indep,15000,1000
+1074,Female,18 - 25,Uva,Single,Indep,15000,1000
+1075,Female,18 - 25,North Western,Single,Indep,20000,2000
+1076,Female,18 - 25,North Western,Single,Indep,45000,2000
+1077,Female,18 - 25,Southern,Single,Indep,41000,2000
+1078,Female,18 - 25,Southern,Single,Indep,25000,1800
+1079,Female,18 - 25,Southern,Single,Indep,38000,2000
+1080,Female,18 - 25,Southern,Single,Indep,28000,2000
+1081,Female,18 - 25,Southern,Single,Indep,35000,2500
+1082,Female,18 - 25,Central,Single,Indep,85000,4000
+1083,Female,18 - 25,Central,Single,Indep,65000,2500
+1084,Female,18 - 25,North Central,Single,Indep,28000,1500
+1085,Female,18 - 25,North Central,Single,Indep,30000,1500
+1086,Female,18 - 25,North Central,Single,Indep,30000,1500
+1087,Female,18 - 25,Nothern,Single,Indep,20000,1000
+1088,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+1089,Female,Below 18,Sabaragamuwa,Single,Indep,15000,1500
+1090,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1000
+1091,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+1092,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+1093,Female,Below 18,Southern,Single,Dependant,0,2000
+1094,Female,Below 18,Southern,Single,Dependant,0,2000
+1095,Female,Below 18,Southern,Single,Dependant,0,1500
+1096,Female,Below 18,Southern,Single,Dependant,0,1500
+1097,Female,Below 18,Southern,Single,Dependant,0,1500
+1098,Female,Below 18,Southern,Single,Dependant,0,2000
+1099,Female,Below 18,Southern,Single,Dependant,0,1500
+1100,Female,Below 18,Southern,Single,Dependant,0,2000
+1101,Female,Below 18,Southern,Single,Dependant,0,1500
+1102,Female,Below 18,Southern,Single,Dependant,0,1500
+1103,Female,Below 18,Southern,Single,Dependant,0,1500
+1104,Female,Below 18,Southern,Single,Dependant,0,2000
+1105,Female,Below 18,Southern,Single,Dependant,0,2000
+1106,Female,Below 18,Southern,Single,Dependant,0,2000
+1107,Female,Below 18,Southern,Single,Dependant,0,2000
+1108,Female,Below 18,Southern,Single,Dependant,0,1500
+1109,Female,Below 18,Central,Single,Dependant,0,1000
+1110,Female,Below 18,Central,Single,Dependant,0,900
+1111,Female,Below 18,Central,Single,Dependant,0,1000
+1112,Female,Below 18,Central,Single,Dependant,0,1500
+1113,Female,Below 18,Central,Single,Dependant,0,2000
+1114,Female,Below 18,Central,Single,Dependant,0,4000
+1115,Female,Below 18,Central,Single,Dependant,0,3500
+1116,Female,Below 18,Central,Single,Dependant,0,3000
+1117,Female,Below 18,Central,Single,Dependant,0,2500
+1118,Female,Below 18,Central,Single,Dependant,0,3000
+1119,Female,Below 18,Western,Single,Dependant,0,2000
+1120,Female,Below 18,Western,Single,Dependant,0,3000
+1121,Female,Below 18,Western,Single,Dependant,0,4000
+1122,Female,Below 18,Western,Single,Dependant,0,4000
+1123,Female,Below 18,Western,Single,Dependant,0,2000
+1124,Female,Below 18,Western,Single,Dependant,0,5000
+1125,Female,Below 18,Western,Single,Dependant,0,2000
+1126,Female,Below 18,Western,Single,Dependant,0,2500
+1127,Female,Below 18,Western,Single,Dependant,0,5000
+1128,Female,Below 18,Western,Single,Dependant,0,4000
+1129,Female,Below 18,Western,Single,Dependant,0,4000
+1130,Female,Below 18,Central,Single,Dependant,0,4000
+1131,Female,Below 18,Central,Single,Dependant,0,2500
+1132,Female,Below 18,Central,Single,Dependant,0,2000
+1133,Female,Below 18,Central,Single,Dependant,0,2000
+1134,Female,Below 18,Central,Single,Dependant,0,1500
+1135,Female,Below 18,Central,Single,Dependant,0,2000
+1136,Female,Below 18,Central,Single,Dependant,0,2000
+1137,Female,Below 18,Central,Single,Dependant,0,2000
+1138,Female,Below 18,Central,Single,Dependant,0,2000
+1139,Female,Below 18,Western,Single,Dependant,0,2500
+1140,Female,Below 18,Western,Single,Dependant,0,3000
+1141,Female,Below 18,Western,Single,Dependant,0,5000
+1142,Female,Below 18,North Western,Single,Dependant,0,1000
+1143,Female,Below 18,North Western,Single,Dependant,0,1500
+1144,Female,Below 18,North Western,Single,Dependant,0,1000
+1145,Female,26 - 30,North Central,Single,Indep,30000,1500
+1146,Female,26 - 30,North Central,Single,Indep,38000,1500
+1147,Female,26 - 30,North Central,Single,Indep,35000,1500
+1148,Female,26 - 30,Uva,Single,Indep,35000,1500
+1149,Female,26 - 30,Uva,Single,Indep,40000,1500
+1150,Female,26 - 30,Uva,Single,Indep,40000,1500
+1151,Female,26 - 30,North Western,Single,Indep,65000,2500
+1152,Female,26 - 30,North Western,Single,Indep,30000,2000
+1153,Female,26 - 30,Sabaragamuwa,Single,Indep,42000,1500
+1154,Female,26 - 30,Sabaragamuwa,Single,Indep,41000,1500
+1155,Female,26 - 30,Sabaragamuwa,Single,Indep,40000,1500
+1156,Female,26 - 30,Sabaragamuwa,Single,Indep,56000,1500
+1157,Female,26 - 30,Sabaragamuwa,Single,Indep,55000,1500
+1158,Female,26 - 30,Sabaragamuwa,Single,Indep,58000,1500
+1159,Female,26 - 30,Sabaragamuwa,Single,Indep,63000,1500
+1160,Female,26 - 30,Sabaragamuwa,Single,Indep,67000,1500
+1161,Female,26 - 30,Sabaragamuwa,Single,Indep,71000,1500
+1162,Female,26 - 30,Sabaragamuwa,Single,Indep,70000,1500
+1163,Female,26 - 30,Sabaragamuwa,Single,Indep,72000,1500
+1164,Female,26 - 30,Sabaragamuwa,Single,Indep,42000,1500
+1165,Female,26 - 30,Sabaragamuwa,Single,Indep,41000,1500
+1166,Female,26 - 30,Sabaragamuwa,Single,Indep,40000,1500
+1167,Female,26 - 30,Sabaragamuwa,Single,Indep,56000,1500
+1168,Female,26 - 30,Sabaragamuwa,Single,Indep,55000,1500
+1169,Female,26 - 30,Sabaragamuwa,Single,Indep,58000,2000
+1170,Female,26 - 30,Sabaragamuwa,Single,Indep,63000,2000
+1171,Female,26 - 30,Sabaragamuwa,Single,Indep,67000,2000
+1172,Female,26 - 30,Sabaragamuwa,Single,Indep,71000,2000
+1173,Female,26 - 30,Sabaragamuwa,Single,Indep,170000,3000
+1174,Female,26 - 30,Southern,Single,Indep,45000,1800
+1175,Female,26 - 30,Southern,Single,Indep,48000,1800
+1176,Female,26 - 30,Southern,Single,Indep,38000,1500
+1177,Female,26 - 30,Southern,Single,Indep,67000,2000
+1178,Female,26 - 30,Southern,Single,Indep,70000,2000
+1179,Female,26 - 30,Southern,Single,Indep,88000,2500
+1180,Female,26 - 30,Southern,Single,Indep,75000,2000
+1181,Female,26 - 30,Southern,Single,Indep,55000,2000
+1182,Female,26 - 30,Southern,Single,Indep,60000,1800
+1183,Female,26 - 30,Southern,Single,Indep,110000,5000
+1184,Female,26 - 30,Southern,Single,Indep,95000,4000
+1185,Female,26 - 30,Central,Single,Indep,55000,1500
+1186,Female,26 - 30,Central,Single,Indep,45000,1500
+1187,Female,26 - 30,Central,Single,Indep,80000,1800
+1188,Female,26 - 30,Central,Single,Indep,65000,1500
+1189,Female,26 - 30,Central,Single,Indep,130000,2500
+1190,Female,26 - 30,Central,Single,Indep,100000,2500
+1191,Female,26 - 30,Central,Single,Indep,75000,2000
+1192,Female,26 - 30,Central,Single,Indep,35000,1000
+1193,Female,26 - 30,Central,Single,Indep,28000,1000
+1194,Female,26 - 30,Central,Single,Indep,45000,1500
+1195,Female,26 - 30,Central,Single,Indep,58000,1500
+1196,Female,26 - 30,Central,Single,Dependant,0,4000
+1197,Female,26 - 30,Central,Single,Dependant,0,3000
+1198,Female,26 - 30,Central,Single,Dependant,0,2500
+1199,Female,26 - 30,Central,Single,Dependant,0,3000
+1200,Female,26 - 30,Western,Single,Indep,62000,2000
+1201,Female,26 - 30,Western,Single,Indep,70000,2500
+1202,Female,26 - 30,Western,Married,Indep,35000,1500
+1203,Female,26 - 30,Western,Married,Indep,40000,1500
+1204,Female,26 - 30,Western,Married,Indep,52000,2000
+1205,Female,26 - 30,Western,Married,Indep,70000,2500
+1206,Female,26 - 30,Western,Married,Indep,80000,3000
+1207,Female,26 - 30,Central,Married,Indep,65000,1800
+1208,Female,26 - 30,Central,Married,Indep,70000,1500
+1209,Female,26 - 30,Central,Married,Indep,38000,1000
+1210,Female,26 - 30,Central,Single,Indep,95000,2500
+1211,Female,26 - 30,Central,Single,Indep,80000,2000
+1212,Female,26 - 30,Western,Single,Indep,120000,3000
+1213,Female,26 - 30,Western,Single,Indep,60000,3000
+1214,Female,31 - 40,Western,Single,Indep,72000,2500
+1215,Female,31 - 40,Nothern,Married,Indep,58000,1000
+1216,Female,31 - 40,Nothern,Married,Indep,63000,900
+1217,Female,31 - 40,North Central,Married,Indep,57000,1500
+1218,Female,31 - 40,North Central,Married,Indep,63000,1500
+1219,Female,31 - 40,North Western,Married,Indep,120000,3000
+1220,Female,31 - 40,North Western,Married,Indep,70000,2500
+1221,Female,31 - 40,Sabaragamuwa,Married,Indep,65000,1500
+1222,Female,31 - 40,Sabaragamuwa,Married,Indep,80000,2000
+1223,Female,31 - 40,Sabaragamuwa,Married,Indep,61000,1500
+1224,Female,31 - 40,Sabaragamuwa,Married,Indep,75000,2000
+1225,Female,31 - 40,Sabaragamuwa,Married,Indep,70000,1500
+1226,Female,31 - 40,Western,Married,Indep,38000,1500
+1227,Female,31 - 40,Western,Married,Indep,120000,2500
+1228,Female,31 - 40,Western,Married,Indep,150000,3000
+1229,Female,31 - 40,Western,Married,Indep,180000,4000
+1230,Female,31 - 40,Central,Married,Dependant,0,2500
+1231,Female,31 - 40,Eastern,Married,Indep,30000,2000
+1232,Male,18 - 25,Eastern,Single,Dependant,0,1000
+1233,Male,18 - 25,Eastern,Single,Indep,25000,0
+1234,Male,18 - 25,North Central,Single,Indep,15000,0
+1235,Male,18 - 25,North Central,Single,Indep,15000,0
+1236,Male,18 - 25,North Central,Single,Indep,20000,2000
+1237,Male,18 - 25,Uva,Single,Indep,20000,0
+1238,Male,18 - 25,Uva,Single,Indep,25000,0
+1239,Male,18 - 25,Uva,Single,Indep,30000,0
+1240,Male,18 - 25,Uva,Single,Indep,30000,0
+1241,Male,18 - 25,Sabaragamuwa,Single,Indep,25000,0
+1242,Male,18 - 25,Sabaragamuwa,Single,Indep,27000,0
+1243,Male,18 - 25,Sabaragamuwa,Single,Indep,29000,0
+1244,Male,18 - 25,Sabaragamuwa,Single,Indep,30000,0
+1245,Male,18 - 25,Sabaragamuwa,Single,Indep,32000,0
+1246,Male,18 - 25,Central,Single,Dependant,0,0
+1247,Male,18 - 25,Central,Single,Dependant,0,0
+1248,Male,18 - 25,Nothern,Single,Dependant,0,0
+1249,Male,18 - 25,Nothern,Single,Dependant,0,0
+1250,Male,Below 18,Southern,Single,Dependant,0,0
+1251,Male,Below 18,Southern,Single,Dependant,0,0
+1252,Male,Below 18,Southern,Single,Dependant,0,0
+1253,Male,Below 18,Southern,Single,Dependant,0,0
+1254,Male,Below 18,Southern,Single,Dependant,0,0
+1255,Male,Below 18,Southern,Single,Dependant,0,0
+1256,Male,Below 18,Southern,Single,Dependant,0,0
+1257,Male,Below 18,Southern,Single,Dependant,0,0
+1258,Male,Below 18,Southern,Single,Dependant,0,0
+1259,Male,Below 18,Southern,Single,Dependant,0,0
+1260,Male,Below 18,Southern,Single,Dependant,0,0
+1261,Male,Below 18,Southern,Single,Dependant,0,0
+1262,Male,Below 18,Southern,Single,Dependant,0,0
+1263,Male,Below 18,Southern,Single,Dependant,0,0
+1264,Male,Below 18,Southern,Single,Dependant,0,0
+1265,Male,Below 18,Central,Single,Dependant,0,0
+1266,Male,Below 18,Central,Single,Dependant,0,0
+1267,Male,Below 18,Central,Single,Dependant,0,0
+1268,Male,Below 18,Central,Single,Dependant,0,0
+1269,Male,Below 18,Central,Single,Dependant,0,0
+1270,Male,Below 18,Western,Single,Dependant,0,0
+1271,Male,Below 18,Western,Single,Dependant,0,0
+1272,Male,Below 18,Western,Single,Dependant,0,0
+1273,Male,Below 18,Western,Single,Dependant,0,0
+1274,Male,Below 18,Central,Single,Dependant,0,0
+1275,Male,Below 18,Central,Single,Dependant,0,0
+1276,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1277,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1278,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1279,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1280,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1281,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1282,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1283,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1284,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1285,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1286,Male,Below 18,Sabaragamuwa,Single,Indep,12000,0
+1287,Male,26 - 30,Eastern,Single,Indep,35000,0
+1288,Male,26 - 30,Eastern,Single,Indep,30000,0
+1289,Male,26 - 30,Eastern,Single,Indep,40000,0
+1290,Male,26 - 30,North Central,Single,Indep,38000,0
+1291,Male,26 - 30,North Central,Single,Indep,42000,0
+1292,Male,26 - 30,North Central,Single,Indep,45000,0
+1293,Male,26 - 30,Uva,Single,Indep,45000,0
+1294,Male,26 - 30,Uva,Single,Indep,30000,0
+1295,Male,26 - 30,Uva,Single,Indep,25000,0
+1296,Male,26 - 30,Uva,Single,Indep,35000,0
+1297,Male,26 - 30,Uva,Single,Indep,40000,0
+1298,Male,26 - 30,North Western,Single,Indep,60000,0
+1299,Male,26 - 30,North Western,Single,Indep,55000,0
+1300,Male,26 - 30,North Western,Single,Indep,58000,0
+1301,Male,26 - 30,North Western,Single,Indep,55000,0
+1302,Male,26 - 30,North Western,Single,Indep,45000,0
+1303,Male,26 - 30,North Western,Single,Indep,30000,0
+1304,Male,26 - 30,Sabaragamuwa,Single,Indep,42000,0
+1305,Male,26 - 30,Sabaragamuwa,Single,Indep,41000,0
+1306,Male,26 - 30,Sabaragamuwa,Single,Indep,40000,0
+1307,Male,26 - 30,Sabaragamuwa,Single,Indep,56000,0
+1308,Male,26 - 30,Sabaragamuwa,Single,Indep,55000,0
+1309,Male,26 - 30,Sabaragamuwa,Single,Indep,58000,0
+1310,Male,26 - 30,Sabaragamuwa,Single,Indep,63000,0
+1311,Male,26 - 30,Sabaragamuwa,Single,Indep,67000,0
+1312,Male,26 - 30,Sabaragamuwa,Single,Indep,71000,0
+1313,Male,26 - 30,Sabaragamuwa,Single,Indep,70000,0
+1314,Male,26 - 30,Southern,Single,Indep,65000,0
+1315,Male,26 - 30,Southern,Single,Indep,60000,0
+1316,Male,26 - 30,Southern,Single,Indep,150000,1500
+1317,Male,26 - 30,Southern,Single,Indep,125000,2000
+1318,Male,26 - 30,Southern,Single,Indep,85000,1000
+1319,Male,26 - 30,Central,Single,Indep,90000,0
+1320,Male,26 - 30,Central,Single,Indep,95000,1000
+1321,Male,26 - 30,Central,Single,Indep,85000,0
+1322,Male,26 - 30,Central,Single,Indep,120000,2000
+1323,Male,26 - 30,Central,Single,Indep,100000,1800
+1324,Male,26 - 30,Western,Single,Indep,48000,1000
+1325,Male,26 - 30,Western,Single,Indep,55000,1000
+1326,Male,26 - 30,Western,Single,Indep,65000,1000
+1327,Male,26 - 30,Western,Married,Indep,72000,0
+1328,Male,26 - 30,Western,Married,Indep,90000,0
+1329,Male,26 - 30,Central,Single,Indep,45000,0
+1330,Male,26 - 30,Central,Single,Indep,55000,1000
+1331,Male,26 - 30,Western,Single,Indep,70000,1000
+1332,Male,26 - 30,Western,Single,Indep,90000,2000
+1333,Male,18 - 25,Sabaragamuwa,Single,Indep,72000,0
+1334,Male,18 - 25,Sabaragamuwa,Single,Indep,42000,0
+1335,Male,18 - 25,Sabaragamuwa,Single,Indep,41000,0
+1336,Male,18 - 25,Central,Single,Indep,25000,0
+1337,Male,18 - 25,Central,Single,Indep,35000,800
+1338,Male,18 - 25,Central,Single,Indep,42000,1000
+1339,Male,18 - 25,Central,Single,Indep,55000,0
+1340,Male,18 - 25,Central,Single,Indep,75000,1500
+1341,Male,18 - 25,Western,Single,Indep,20000,0
+1342,Male,18 - 25,Western,Single,Indep,32000,0
+1343,Male,31 - 40,Western,Single,Indep,65000,0
+1344,Male,31 - 40,Western,Single,Indep,80000,0
+1345,Male,31 - 40,Western,Single,Indep,160000,1000
+1346,Male,31 - 40,Central,Single,Indep,500000,0
+1347,Male,31 - 40,Central,Single,Indep,110000,2000
+1348,Male,31 - 40,Central,Single,Indep,580000,0
+1349,Male,31 - 40,Central,Single,Indep,370000,0
+1350,Male,31 - 40,Western,Single,Indep,250000,1000
+1351,Male,31 - 40,Sabaragamuwa,Single,Indep,40000,0
+1352,Male,31 - 40,Sabaragamuwa,Single,Indep,56000,0
+1353,Male,31 - 40,Sabaragamuwa,Single,Indep,55000,0
+1354,Male,31 - 40,Sabaragamuwa,Single,Indep,58000,0
+1355,Male,31 - 40,Sabaragamuwa,Single,Indep,63000,0
+1356,Male,31 - 40,Eastern,Married,Indep,58000,0
+1357,Male,31 - 40,Uva,Married,Indep,67000,0
+1358,Male,31 - 40,Uva,Married,Indep,64000,0
+1359,Male,31 - 40,North Western,Married,Indep,55000,0
+1360,Male,31 - 40,North Western,Married,Indep,50000,0
+1361,Male,31 - 40,North Western,Married,Indep,60000,0
+1362,Male,31 - 40,Sabaragamuwa,Married,Indep,58000,0
+1363,Male,31 - 40,Sabaragamuwa,Married,Indep,63000,0
+1364,Male,31 - 40,Sabaragamuwa,Married,Indep,67000,0
+1365,Male,31 - 40,Sabaragamuwa,Married,Indep,71000,0
+1366,Male,31 - 40,Sabaragamuwa,Married,Indep,70000,0
+1367,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+1368,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+1369,Male,31 - 40,Sabaragamuwa,Married,Indep,75000,0
+1370,Male,31 - 40,Sabaragamuwa,Married,Indep,90000,0
+1371,Male,31 - 40,Sabaragamuwa,Married,Indep,85000,0
+1372,Male,31 - 40,Sabaragamuwa,Married,Indep,100000,0
+1373,Male,31 - 40,Sabaragamuwa,Married,Indep,110000,0
+1374,Male,31 - 40,Sabaragamuwa,Married,Indep,63000,0
+1375,Male,31 - 40,Sabaragamuwa,Married,Indep,67000,0
+1376,Male,31 - 40,Sabaragamuwa,Married,Indep,71000,0
+1377,Male,31 - 40,Sabaragamuwa,Married,Indep,70000,0
+1378,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+1379,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+1380,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+1381,Male,31 - 40,Southern,Married,Indep,84000,0
+1382,Male,31 - 40,Southern,Married,Indep,76000,0
+1383,Male,31 - 40,Southern,Married,Indep,66000,0
+1384,Male,31 - 40,Southern,Married,Indep,97500,1000
+1385,Male,31 - 40,Central,Married,Indep,250000,0
+1386,Male,31 - 40,Central,Married,Indep,100000,0
+1387,Male,31 - 40,Central,Married,Indep,200000,0
+1388,Male,31 - 40,Central,Married,Indep,140000,1500
+1389,Male,31 - 40,Central,Married,Indep,55000,0
+1390,Male,31 - 40,Central,Married,Indep,67000,0
+1391,Male,31 - 40,Central,Married,Indep,49000,0
+1392,Male,31 - 40,Central,Married,Indep,38000,800
+1393,Male,31 - 40,Central,Married,Indep,90000,0
+1394,Male,31 - 40,Central,Married,Indep,135000,1500
+1395,Male,31 - 40,Central,Married,Indep,155000,1500
+1396,Male,31 - 40,Central,Married,Indep,39000,1000
+1397,Male,31 - 40,Central,Married,Indep,37000,800
+1398,Male,31 - 40,Central,Married,Indep,42000,1000
+1399,Male,31 - 40,Central,Married,Indep,71000,1000
+1400,Male,31 - 40,Western,Married,Indep,50000,0
+1401,Male,31 - 40,Western,Married,Indep,58000,0
+1402,Male,31 - 40,Western,Married,Indep,60000,0
+1403,Male,31 - 40,Western,Married,Indep,65000,0
+1404,Male,31 - 40,Western,Married,Indep,70000,1000
+1405,Male,31 - 40,Western,Married,Indep,75000,0
+1406,Male,31 - 40,Western,Married,Indep,80000,0
+1407,Male,31 - 40,Western,Married,Indep,130000,1000
+1408,Male,31 - 40,Western,Married,Indep,120000,0
+1409,Male,31 - 40,Western,Married,Indep,200000,0
+1410,Male,31 - 40,Western,Married,Indep,300000,0
+1411,Male,31 - 40,Central,Married,Indep,450000,0
+1412,Male,31 - 40,Central,Married,Indep,50000,0
+1413,Male,31 - 40,Central,Married,Indep,58000,0
+1414,Male,31 - 40,Central,Married,Indep,60000,0
+1415,Male,31 - 40,Central,Married,Indep,62000,0
+1416,Male,31 - 40,Western,Married,Indep,400000,0
+1417,Male,31 - 40,Western,Married,Indep,320000,0
+1418,Male,31 - 40,Western,Married,Indep,500000,0
+1419,Female,18 - 25,Southern,Single,Dependant,0,2000
+1420,Female,18 - 25,Southern,Single,Indep,30000,2000
+1421,Female,26 - 30,Southern,Married,Indep,68000,2000
+1422,Male,31 - 40,Southern,Married,Indep,70000,0
+1423,Female,18 - 25,Western,Single,Indep,15000,2000
+1424,Female,26 - 30,Southern,Single,Indep,100000,2000
+1425,Male,18 - 25,Southern,Single,Indep,100000,0
+1426,Female,26 - 30,Western,Single,Indep,30000,0
+1427,Female,26 - 30,Western,Married,Indep,60000,3000
+1428,Female,18 - 25,Western,Single,Dependant,0,0
+1429,Female,26 - 30,Uva,Married,Indep,69000,0
+1430,Male,18 - 25,Western,Single,Dependant,0,0
+1431,Female,18 - 25,Southern,Single,Dependant,0,3000
+1432,Female,26 - 30,Western,Single,Indep,70000,0
+1433,Female,18 - 25,Western,Single,Dependant,0,5000
+1434,Female,18 - 25,Southern,Single,Dependant,0,3000
+1435,Female,18 - 25,Western,Single,Dependant,0,2000
+1436,Female,18 - 25,Southern,Single,Dependant,0,0
+1437,Female,18 - 25,Southern,Single,Dependant,0,3000
+1438,Female,18 - 25,Southern,Single,Indep,130000,6000
+1439,Female,18 - 25,Southern,Single,Dependant,0,0
+1440,Female,18 - 25,Southern,Single,Indep,30000,2000
+1441,Female,26 - 30,North Western,Single,Dependant,0,2500
+1442,Female,26 - 30,Western,Single,Indep,70000,2000
+1443,Female,18 - 25,Western,Married,Indep,150000,4000
+1444,Female,18 - 25,Southern,Single,Dependant,0,2000
+1445,Male,18 - 25,Western,Single,Dependant,0,0
+1446,Male,18 - 25,Western,Single,Indep,80000,0
+1447,Female,18 - 25,Southern,Single,Dependant,0,2500
+1448,Male,18 - 25,Western,Single,Dependant,0,1000
+1449,Male,18 - 25,Western,Single,Indep,100000,0
+1450,Female,18 - 25,Western,Single,Dependant,0,300
+1451,Female,18 - 25,Southern,Single,Indep,40000,0
+1452,Male,18 - 25,Western,Single,Dependant,0,0
+1453,Female,26 - 30,Western,Single,Indep,35000,3000
+1454,Female,18 - 25,Western,Single,Indep,30000,0
+1455,Female,26 - 30,Western,Single,Indep,30000,0
+1456,Female,26 - 30,Western,Single,Indep,30000,1000
+1457,Female,18 - 25,Western,Single,Indep,32000,0
+1458,Male,18 - 25,Western,Single,Indep,30000,0
+1459,Female,18 - 25,Western,Single,Indep,150000,0
+1460,Male,18 - 25,Western,Single,Indep,20000,0
+1461,Female,26 - 30,Western,Single,Dependant,0,0
+1462,Male,18 - 25,Western,Single,Dependant,0,0
+1463,Male,18 - 25,Western,Single,Indep,50000,1000
+1464,Female,18 - 25,Southern,Single,Dependant,0,0
+1465,Female,18 - 25,Central,Single,Dependant,0,4000
+1466,Female,18 - 25,Western,Single,Indep,25000,2000
+1467,Male,18 - 25,Western,Single,Dependant,0,0
+1468,Male,18 - 25,Western,Single,Dependant,0,0
+1469,Male,26 - 30,Western,Single,Indep,120000,1000
+1470,Male,18 - 25,Western,Single,Indep,20000,500
+1471,Male,18 - 25,Southern,Single,Dependant,0,0
+1472,Female,18 - 25,Western,Single,Dependant,0,5000
+1473,Female,18 - 25,Southern,Single,Indep,10000,0
+1474,Female,18 - 25,Central,Single,Dependant,0,3000
+1475,Female,18 - 25,North Western,Single,Indep,50000,3000
+1476,Male,18 - 25,Sabaragamuwa,Single,Indep,40000,1000
+1477,Male,18 - 25,Southern,Single,Dependant,0,1000
+1478,Female,18 - 25,Southern,Single,Dependant,0,0
+1479,Female,18 - 25,Southern,Single,Indep,27000,3000
+1480,Female,18 - 25,Southern,Single,Dependant,0,1000
+1481,Male,18 - 25,Western,Single,Indep,20000,500
+1482,Female,18 - 25,Sabaragamuwa,Single,Indep,150000,0
+1483,Male,18 - 25,Western,Single,Indep,15000,2000
+1484,Female,18 - 25,Southern,Single,Dependant,0,0
+1485,Female,18 - 25,Central,Single,Indep,200000,25000
+1486,Female,18 - 25,Southern,Single,Dependant,0,0
+1487,Female,18 - 25,Western,Single,Indep,34000,3000
+1488,Female,26 - 30,Southern,Single,Indep,25000,1500
+1489,Male,18 - 25,Western,Single,Dependant,0,0
+1490,Male,18 - 25,Sabaragamuwa,Married,Indep,200000,3500
+1491,Male,26 - 30,Southern,Single,Indep,330000,0
+1492,Male,26 - 30,Western,Married,Indep,100000,0
+1493,Male,26 - 30,Western,Single,Indep,170000,0
+1494,Male,18 - 25,Western,Single,Indep,40000,0
+1495,Male,26 - 30,Southern,Married,Indep,60000,1500
+1496,Male,26 - 30,Southern,Single,Indep,550000,0
+1497,Male,26 - 30,Southern,Married,Indep,105000,0
+1498,Male,26 - 30,Southern,Single,Indep,600000,0
+1499,Male,18 - 25,Western,Single,Indep,45000,0
+1500,Male,26 - 30,Southern,Single,Indep,400000,0
+1501,Female,18 - 25,Southern,Single,Dependant,0,4000
+1502,Male,18 - 25,Western,Single,Indep,20000,0
+1503,Female,18 - 25,Southern,Single,Dependant,0,500
+1504,Male,18 - 25,Western,Single,Dependant,0,0
+1505,Male,26 - 30,Sabaragamuwa,Single,Indep,45000,0
+1506,Female,Below 18,Eastern,Single,Dependant,0,1000
+1507,Male,Below 18,Southern,Single,Dependant,0,0
+1508,Male,Below 18,Western,Single,Dependant,0,0
+1509,Female,18 - 25,Southern,Single,Dependant,0,0
+1510,Female,26 - 30,Western,Single,Dependant,0,1000
+1511,Female,18 - 25,Southern,Single,Indep,30000,3000
+1512,Female,18 - 25,Southern,Single,Indep,15000,5000
+1513,Female,18 - 25,Southern,Single,Indep,30000,0
+1514,Female,18 - 25,Central,Married,Dependant,0,0
+1515,Female,18 - 25,Central,Single,Dependant,0,3000
+1516,Female,18 - 25,Western,Single,Dependant,0,2000
+1517,Female,18 - 25,Western,Single,Dependant,0,3000
+1518,Male,31 - 40,Southern,Single,Indep,120000,5000
+1519,Female,18 - 25,Central,Married,Indep,90000,6000
+1520,Female,18 - 25,Western,Single,Indep,35000,3500
+1521,Male,18 - 25,Western,Single,Indep,50000,0
+1522,Female,18 - 25,Southern,Single,Dependant,0,3000
+1523,Female,18 - 25,Western,Single,Dependant,0,500
+1524,Female,18 - 25,Southern,Single,Indep,30000,250
+1525,Female,18 - 25,Western,Single,Dependant,0,5000
+1526,Female,18 - 25,Southern,Single,Indep,22000,0
+1527,Female,18 - 25,Southern,Single,Indep,50000,2500
+1528,Female,26 - 30,North Western,Single,Indep,140000,2000
+1529,Female,26 - 30,Southern,Single,Dependant,0,0
+1530,Female,26 - 30,Southern,Single,Indep,60000,0
+1531,Female,26 - 30,Southern,Single,Dependant,0,1000
+1532,Female,31 - 40,North Central,Single,Indep,55000,1500
+1533,Female,31 - 40,North Central,Single,Indep,50000,1500
+1534,Female,31 - 40,North Central,Single,Indep,67000,2000
+1535,Female,31 - 40,Central,Married,Indep,67000,2000
+1536,Female,31 - 40,Western,Married,Indep,48000,1500
+1537,Female,31 - 40,Western,Married,Indep,50000,2000
+1538,Female,31 - 40,Western,Married,Indep,90000,2500
+1539,Female,31 - 40,Western,Married,Indep,100000,3000
+1540,Female,31 - 40,Eastern,Married,Indep,60000,2000
+1541,Female,31 - 40,Eastern,Married,Indep,55000,2000
+1542,Female,18 - 25,Eastern,Single,Indep,30000,2000
+1543,Female,18 - 25,Eastern,Single,Indep,35000,1500
+1544,Female,18 - 25,Uva,Single,Indep,25000,1500
+1545,Female,18 - 25,Uva,Single,Indep,30000,1000
+1546,Female,18 - 25,Uva,Single,Indep,15000,1000
+1547,Female,18 - 25,Uva,Single,Indep,15000,1000
+1548,Female,18 - 25,North Western,Single,Indep,20000,2000
+1549,Female,18 - 25,North Western,Single,Indep,45000,2000
+1550,Female,18 - 25,Southern,Single,Indep,41000,2000
+1551,Female,18 - 25,Southern,Single,Indep,25000,1800
+1552,Female,18 - 25,Southern,Single,Indep,38000,2000
+1553,Female,18 - 25,Southern,Single,Indep,28000,2000
+1554,Female,18 - 25,Southern,Single,Indep,35000,2500
+1555,Female,18 - 25,Central,Single,Indep,85000,4000
+1556,Female,18 - 25,Central,Single,Indep,65000,2500
+1557,Female,18 - 25,North Central,Single,Indep,28000,1500
+1558,Female,18 - 25,North Central,Single,Indep,30000,1500
+1559,Female,18 - 25,North Central,Single,Indep,30000,1500
+1560,Female,18 - 25,Nothern,Single,Indep,20000,1000
+1561,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+1562,Female,Below 18,Sabaragamuwa,Single,Indep,15000,1500
+1563,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1000
+1564,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+1565,Female,Below 18,Sabaragamuwa,Single,Dependant,0,1500
+1566,Female,Below 18,Southern,Single,Dependant,0,2000
+1567,Female,Below 18,Southern,Single,Dependant,0,2000
+1568,Female,Below 18,Southern,Single,Dependant,0,1500
+1569,Female,Below 18,Southern,Single,Dependant,0,1500
+1570,Female,Below 18,Southern,Single,Dependant,0,1500
+1571,Female,Below 18,Southern,Single,Dependant,0,2000
+1572,Female,Below 18,Southern,Single,Dependant,0,1500
+1573,Female,Below 18,Southern,Single,Dependant,0,2000
+1574,Female,Below 18,Southern,Single,Dependant,0,1500
+1575,Female,Below 18,Southern,Single,Dependant,0,1500
+1576,Female,Below 18,Southern,Single,Dependant,0,1500
+1577,Female,Below 18,Southern,Single,Dependant,0,2000
+1578,Female,Below 18,Southern,Single,Dependant,0,2000
+1579,Female,Below 18,Southern,Single,Dependant,0,2000
+1580,Female,Below 18,Southern,Single,Dependant,0,2000
+1581,Female,Below 18,Southern,Single,Dependant,0,1500
+1582,Female,Below 18,Central,Single,Dependant,0,1000
+1583,Female,Below 18,Central,Single,Dependant,0,900
+1584,Female,Below 18,Central,Single,Dependant,0,1000
+1585,Female,Below 18,Central,Single,Dependant,0,1500
+1586,Female,Below 18,Central,Single,Dependant,0,2000
+1587,Female,Below 18,Central,Single,Dependant,0,4000
+1588,Female,Below 18,Central,Single,Dependant,0,3500
+1589,Female,Below 18,Central,Single,Dependant,0,3000
+1590,Female,Below 18,Central,Single,Dependant,0,2500
+1591,Female,Below 18,Central,Single,Dependant,0,3000
+1592,Female,Below 18,Western,Single,Dependant,0,2000
+1593,Female,Below 18,Western,Single,Dependant,0,3000
+1594,Female,Below 18,Western,Single,Dependant,0,4000
+1595,Female,Below 18,Western,Single,Dependant,0,4000
+1596,Female,Below 18,Western,Single,Dependant,0,2000
+1597,Female,Below 18,Western,Single,Dependant,0,5000
+1598,Female,Below 18,Western,Single,Dependant,0,2000
+1599,Female,Below 18,Western,Single,Dependant,0,2500
+1600,Female,Below 18,Western,Single,Dependant,0,5000
+1601,Female,Below 18,Western,Single,Dependant,0,4000
+1602,Female,Below 18,Western,Single,Dependant,0,4000
+1603,Female,Below 18,Central,Single,Dependant,0,4000
+1604,Female,Below 18,Central,Single,Dependant,0,2500
+1605,Female,Below 18,Central,Single,Dependant,0,2000
+1606,Female,Below 18,Central,Single,Dependant,0,2000
+1607,Female,Below 18,Central,Single,Dependant,0,1500
+1608,Female,Below 18,Central,Single,Dependant,0,2000
+1609,Female,Below 18,Central,Single,Dependant,0,2000
+1610,Female,Below 18,Central,Single,Dependant,0,2000
+1611,Female,Below 18,Central,Single,Dependant,0,2000
+1612,Female,Below 18,Western,Single,Dependant,0,2500
+1613,Female,Below 18,Western,Single,Dependant,0,3000
+1614,Female,Below 18,Western,Single,Dependant,0,5000
+1615,Female,Below 18,North Western,Single,Dependant,0,1000
+1616,Female,Below 18,North Western,Single,Dependant,0,1500
+1617,Female,Below 18,North Western,Single,Dependant,0,1000
+1618,Female,26 - 30,North Central,Single,Indep,30000,1500
+1619,Female,26 - 30,North Central,Single,Indep,38000,1500
+1620,Female,26 - 30,North Central,Single,Indep,35000,1500
+1621,Female,26 - 30,Uva,Single,Indep,35000,1500
+1622,Female,26 - 30,Uva,Single,Indep,40000,1500
+1623,Female,26 - 30,Uva,Single,Indep,40000,1500
+1624,Female,26 - 30,North Western,Single,Indep,65000,2500
+1625,Female,26 - 30,North Western,Single,Indep,30000,2000
+1626,Female,26 - 30,Sabaragamuwa,Single,Indep,42000,1500
+1627,Female,26 - 30,Sabaragamuwa,Single,Indep,41000,1500
+1628,Female,26 - 30,Sabaragamuwa,Single,Indep,40000,1500
+1629,Female,26 - 30,Sabaragamuwa,Single,Indep,56000,1500
+1630,Female,26 - 30,Sabaragamuwa,Single,Indep,55000,1500
+1631,Female,26 - 30,Sabaragamuwa,Single,Indep,58000,1500
+1632,Female,26 - 30,Sabaragamuwa,Single,Indep,63000,1500
+1633,Female,26 - 30,Sabaragamuwa,Single,Indep,67000,1500
+1634,Female,26 - 30,Sabaragamuwa,Single,Indep,71000,1500
+1635,Female,26 - 30,Sabaragamuwa,Single,Indep,70000,1500
+1636,Female,26 - 30,Sabaragamuwa,Single,Indep,72000,1500
+1637,Female,26 - 30,Sabaragamuwa,Single,Indep,42000,1500
+1638,Female,26 - 30,Sabaragamuwa,Single,Indep,41000,1500
+1639,Female,26 - 30,Sabaragamuwa,Single,Indep,40000,1500
+1640,Female,26 - 30,Sabaragamuwa,Single,Indep,56000,1500
+1641,Female,26 - 30,Sabaragamuwa,Single,Indep,55000,1500
+1642,Female,26 - 30,Sabaragamuwa,Single,Indep,58000,2000
+1643,Female,26 - 30,Sabaragamuwa,Single,Indep,63000,2000
+1644,Female,26 - 30,Sabaragamuwa,Single,Indep,67000,2000
+1645,Female,26 - 30,Sabaragamuwa,Single,Indep,71000,2000
+1646,Female,26 - 30,Sabaragamuwa,Single,Indep,170000,3000
+1647,Female,26 - 30,Southern,Single,Indep,45000,1800
+1648,Female,26 - 30,Southern,Single,Indep,48000,1800
+1649,Female,26 - 30,Southern,Single,Indep,38000,1500
+1650,Female,26 - 30,Southern,Single,Indep,67000,2000
+1651,Female,26 - 30,Southern,Single,Indep,70000,2000
+1652,Female,26 - 30,Southern,Single,Indep,88000,2500
+1653,Female,26 - 30,Southern,Single,Indep,75000,2000
+1654,Female,26 - 30,Southern,Single,Indep,55000,2000
+1655,Female,26 - 30,Southern,Single,Indep,60000,1800
+1656,Female,26 - 30,Southern,Single,Indep,110000,5000
+1657,Female,26 - 30,Southern,Single,Indep,95000,4000
+1658,Female,26 - 30,Central,Single,Indep,55000,1500
+1659,Female,26 - 30,Central,Single,Indep,45000,1500
+1660,Female,26 - 30,Central,Single,Indep,80000,1800
+1661,Female,26 - 30,Central,Single,Indep,65000,1500
+1662,Female,26 - 30,Central,Single,Indep,130000,2500
+1663,Female,26 - 30,Central,Single,Indep,100000,2500
+1664,Female,26 - 30,Central,Single,Indep,75000,2000
+1665,Female,26 - 30,Central,Single,Indep,35000,1000
+1666,Female,26 - 30,Central,Single,Indep,28000,1000
+1667,Female,26 - 30,Central,Single,Indep,45000,1500
+1668,Female,26 - 30,Central,Single,Indep,58000,1500
+1669,Female,26 - 30,Central,Single,Dependant,0,4000
+1670,Female,26 - 30,Central,Single,Dependant,0,3000
+1671,Female,26 - 30,Central,Single,Dependant,0,2500
+1672,Female,26 - 30,Central,Single,Dependant,0,3000
+1673,Female,26 - 30,Western,Single,Indep,62000,2000
+1674,Female,26 - 30,Western,Single,Indep,70000,2500
+1675,Female,26 - 30,Western,Married,Indep,35000,1500
+1676,Female,26 - 30,Western,Married,Indep,40000,1500
+1677,Female,26 - 30,Western,Married,Indep,52000,2000
+1678,Female,26 - 30,Western,Married,Indep,70000,2500
+1679,Female,26 - 30,Western,Married,Indep,80000,3000
+1680,Female,26 - 30,Central,Married,Indep,65000,1800
+1681,Female,26 - 30,Central,Married,Indep,70000,1500
+1682,Female,26 - 30,Central,Married,Indep,38000,1000
+1683,Female,26 - 30,Central,Single,Indep,95000,2500
+1684,Female,26 - 30,Central,Single,Indep,80000,2000
+1685,Female,26 - 30,Western,Single,Indep,120000,3000
+1686,Female,26 - 30,Western,Single,Indep,60000,3000
+1687,Female,31 - 40,Western,Single,Indep,72000,2500
+1688,Female,31 - 40,Nothern,Married,Indep,58000,1000
+1689,Female,31 - 40,Nothern,Married,Indep,63000,900
+1690,Female,31 - 40,North Central,Married,Indep,57000,1500
+1691,Female,31 - 40,North Central,Married,Indep,63000,1500
+1692,Female,31 - 40,North Western,Married,Indep,120000,3000
+1693,Female,31 - 40,North Western,Married,Indep,70000,2500
+1694,Female,31 - 40,Sabaragamuwa,Married,Indep,65000,1500
+1695,Female,31 - 40,Sabaragamuwa,Married,Indep,80000,2000
+1696,Female,31 - 40,Sabaragamuwa,Married,Indep,61000,1500
+1697,Female,31 - 40,Sabaragamuwa,Married,Indep,75000,2000
+1698,Female,31 - 40,Sabaragamuwa,Married,Indep,70000,1500
+1699,Female,31 - 40,Western,Married,Indep,38000,1500
+1700,Female,31 - 40,Western,Married,Indep,120000,2500
+1701,Female,31 - 40,Western,Married,Indep,150000,3000
+1702,Female,31 - 40,Western,Married,Indep,180000,4000
+1703,Female,31 - 40,Central,Married,Dependant,0,2500
+1704,Female,31 - 40,Eastern,Married,Indep,30000,2000
+1705,Male,18 - 25,Eastern,Single,Dependant,0,1000
+1706,Male,18 - 25,Eastern,Single,Indep,25000,0
+1707,Male,18 - 25,North Central,Single,Indep,15000,0
+1708,Male,18 - 25,North Central,Single,Indep,15000,0
+1709,Male,18 - 25,North Central,Single,Indep,20000,2000
+1710,Male,18 - 25,Uva,Single,Indep,20000,0
+1711,Male,18 - 25,Uva,Single,Indep,25000,0
+1712,Male,18 - 25,Uva,Single,Indep,30000,0
+1713,Male,18 - 25,Uva,Single,Indep,30000,0
+1714,Male,18 - 25,Sabaragamuwa,Single,Indep,25000,0
+1715,Male,18 - 25,Sabaragamuwa,Single,Indep,27000,0
+1716,Male,18 - 25,Sabaragamuwa,Single,Indep,29000,0
+1717,Male,18 - 25,Sabaragamuwa,Single,Indep,30000,0
+1718,Male,18 - 25,Sabaragamuwa,Single,Indep,32000,0
+1719,Male,18 - 25,Central,Single,Dependant,0,0
+1720,Male,18 - 25,Central,Single,Dependant,0,0
+1721,Male,18 - 25,Nothern,Single,Dependant,0,0
+1722,Male,18 - 25,Nothern,Single,Dependant,0,0
+1723,Male,Below 18,Southern,Single,Dependant,0,0
+1724,Male,Below 18,Southern,Single,Dependant,0,0
+1725,Male,Below 18,Southern,Single,Dependant,0,0
+1726,Male,Below 18,Southern,Single,Dependant,0,0
+1727,Male,Below 18,Southern,Single,Dependant,0,0
+1728,Male,Below 18,Southern,Single,Dependant,0,0
+1729,Male,Below 18,Southern,Single,Dependant,0,0
+1730,Male,Below 18,Southern,Single,Dependant,0,0
+1731,Male,Below 18,Southern,Single,Dependant,0,0
+1732,Male,Below 18,Southern,Single,Dependant,0,0
+1733,Male,Below 18,Southern,Single,Dependant,0,0
+1734,Male,Below 18,Southern,Single,Dependant,0,0
+1735,Male,Below 18,Southern,Single,Dependant,0,0
+1736,Male,Below 18,Southern,Single,Dependant,0,0
+1737,Male,Below 18,Southern,Single,Dependant,0,0
+1738,Male,Below 18,Central,Single,Dependant,0,0
+1739,Male,Below 18,Central,Single,Dependant,0,0
+1740,Male,Below 18,Central,Single,Dependant,0,0
+1741,Male,Below 18,Central,Single,Dependant,0,0
+1742,Male,Below 18,Central,Single,Dependant,0,0
+1743,Male,Below 18,Western,Single,Dependant,0,0
+1744,Male,Below 18,Western,Single,Dependant,0,0
+1745,Male,Below 18,Western,Single,Dependant,0,0
+1746,Male,Below 18,Western,Single,Dependant,0,0
+1747,Male,Below 18,Central,Single,Dependant,0,0
+1748,Male,Below 18,Central,Single,Dependant,0,0
+1749,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1750,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1751,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1752,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1753,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1754,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1755,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1756,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1757,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1758,Male,Below 18,Sabaragamuwa,Single,Dependant,0,0
+1759,Male,Below 18,Sabaragamuwa,Single,Indep,12000,0
+1760,Male,26 - 30,Eastern,Single,Indep,35000,0
+1761,Male,26 - 30,Eastern,Single,Indep,30000,0
+1762,Male,26 - 30,Eastern,Single,Indep,40000,0
+1763,Male,26 - 30,North Central,Single,Indep,38000,0
+1764,Male,26 - 30,North Central,Single,Indep,42000,0
+1765,Male,26 - 30,North Central,Single,Indep,45000,0
+1766,Male,26 - 30,Uva,Single,Indep,45000,0
+1767,Male,26 - 30,Uva,Single,Indep,30000,0
+1768,Male,26 - 30,Uva,Single,Indep,25000,0
+1769,Male,26 - 30,Uva,Single,Indep,35000,0
+1770,Male,26 - 30,Uva,Single,Indep,40000,0
+1771,Male,26 - 30,North Western,Single,Indep,60000,0
+1772,Male,26 - 30,North Western,Single,Indep,55000,0
+1773,Male,26 - 30,North Western,Single,Indep,58000,0
+1774,Male,26 - 30,North Western,Single,Indep,55000,0
+1775,Male,26 - 30,North Western,Single,Indep,45000,0
+1776,Male,26 - 30,North Western,Single,Indep,30000,0
+1777,Male,26 - 30,Sabaragamuwa,Single,Indep,42000,0
+1778,Male,26 - 30,Sabaragamuwa,Single,Indep,41000,0
+1779,Male,26 - 30,Sabaragamuwa,Single,Indep,40000,0
+1780,Male,26 - 30,Sabaragamuwa,Single,Indep,56000,0
+1781,Male,26 - 30,Sabaragamuwa,Single,Indep,55000,0
+1782,Male,26 - 30,Sabaragamuwa,Single,Indep,58000,0
+1783,Male,26 - 30,Sabaragamuwa,Single,Indep,63000,0
+1784,Male,26 - 30,Sabaragamuwa,Single,Indep,67000,0
+1785,Male,26 - 30,Sabaragamuwa,Single,Indep,71000,0
+1786,Male,26 - 30,Sabaragamuwa,Single,Indep,70000,0
+1787,Male,26 - 30,Southern,Single,Indep,65000,0
+1788,Male,26 - 30,Southern,Single,Indep,60000,0
+1789,Male,26 - 30,Southern,Single,Indep,150000,1500
+1790,Male,26 - 30,Southern,Single,Indep,125000,2000
+1791,Male,26 - 30,Southern,Single,Indep,85000,1000
+1792,Male,26 - 30,Central,Single,Indep,90000,0
+1793,Male,26 - 30,Central,Single,Indep,95000,1000
+1794,Male,26 - 30,Central,Single,Indep,85000,0
+1795,Male,26 - 30,Central,Single,Indep,120000,2000
+1796,Male,26 - 30,Central,Single,Indep,100000,1800
+1797,Male,26 - 30,Western,Single,Indep,48000,1000
+1798,Male,26 - 30,Western,Single,Indep,55000,1000
+1799,Male,26 - 30,Western,Single,Indep,65000,1000
+1800,Male,26 - 30,Western,Married,Indep,72000,0
+1801,Male,26 - 30,Western,Married,Indep,90000,0
+1802,Male,26 - 30,Central,Single,Indep,45000,0
+1803,Male,26 - 30,Central,Single,Indep,55000,1000
+1804,Male,26 - 30,Western,Single,Indep,70000,1000
+1805,Male,26 - 30,Western,Single,Indep,90000,2000
+1806,Male,18 - 25,Sabaragamuwa,Single,Indep,72000,0
+1807,Male,18 - 25,Sabaragamuwa,Single,Indep,42000,0
+1808,Male,18 - 25,Sabaragamuwa,Single,Indep,41000,0
+1809,Male,18 - 25,Central,Single,Indep,25000,0
+1810,Male,18 - 25,Central,Single,Indep,35000,800
+1811,Male,18 - 25,Central,Single,Indep,42000,1000
+1812,Male,18 - 25,Central,Single,Indep,55000,0
+1813,Male,18 - 25,Central,Single,Indep,75000,1500
+1814,Male,18 - 25,Western,Single,Indep,20000,0
+1815,Male,18 - 25,Western,Single,Indep,32000,0
+1816,Male,31 - 40,Western,Single,Indep,65000,0
+1817,Male,31 - 40,Western,Single,Indep,80000,0
+1818,Male,31 - 40,Western,Single,Indep,160000,1000
+1819,Male,31 - 40,Central,Single,Indep,500000,0
+1820,Male,31 - 40,Central,Single,Indep,110000,2000
+1821,Male,31 - 40,Central,Single,Indep,580000,0
+1822,Male,31 - 40,Central,Single,Indep,370000,0
+1823,Male,31 - 40,Western,Single,Indep,250000,1000
+1824,Male,31 - 40,Sabaragamuwa,Single,Indep,40000,0
+1825,Male,31 - 40,Sabaragamuwa,Single,Indep,56000,0
+1826,Male,31 - 40,Sabaragamuwa,Single,Indep,55000,0
+1827,Male,31 - 40,Sabaragamuwa,Single,Indep,58000,0
+1828,Male,31 - 40,Sabaragamuwa,Single,Indep,63000,0
+1829,Male,31 - 40,Eastern,Married,Indep,58000,0
+1830,Male,31 - 40,Uva,Married,Indep,67000,0
+1831,Male,31 - 40,Uva,Married,Indep,64000,0
+1832,Male,31 - 40,North Western,Married,Indep,55000,0
+1833,Male,31 - 40,North Western,Married,Indep,50000,0
+1834,Male,31 - 40,North Western,Married,Indep,60000,0
+1835,Male,31 - 40,Sabaragamuwa,Married,Indep,58000,0
+1836,Male,31 - 40,Sabaragamuwa,Married,Indep,63000,0
+1837,Male,31 - 40,Sabaragamuwa,Married,Indep,67000,0
+1838,Male,31 - 40,Sabaragamuwa,Married,Indep,71000,0
+1839,Male,31 - 40,Sabaragamuwa,Married,Indep,70000,0
+1840,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+1841,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+1842,Male,31 - 40,Sabaragamuwa,Married,Indep,75000,0
+1843,Male,31 - 40,Sabaragamuwa,Married,Indep,90000,0
+1844,Male,31 - 40,Sabaragamuwa,Married,Indep,85000,0
+1845,Male,31 - 40,Sabaragamuwa,Married,Indep,100000,0
+1846,Male,31 - 40,Sabaragamuwa,Married,Indep,110000,0
+1847,Male,31 - 40,Sabaragamuwa,Married,Indep,63000,0
+1848,Male,31 - 40,Sabaragamuwa,Married,Indep,67000,0
+1849,Male,31 - 40,Sabaragamuwa,Married,Indep,71000,0
+1850,Male,31 - 40,Sabaragamuwa,Married,Indep,70000,0
+1851,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+1852,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+1853,Male,31 - 40,Sabaragamuwa,Married,Indep,72000,0
+1854,Male,31 - 40,Southern,Married,Indep,84000,0
+1855,Male,31 - 40,Southern,Married,Indep,76000,0
+1856,Male,31 - 40,Southern,Married,Indep,66000,0
+1857,Male,31 - 40,Southern,Married,Indep,97500,1000
+1858,Male,31 - 40,Central,Married,Indep,250000,0
+1859,Male,31 - 40,Central,Married,Indep,100000,0
+1860,Male,31 - 40,Central,Married,Indep,200000,0
+1861,Male,31 - 40,Central,Married,Indep,140000,1500
+1862,Male,31 - 40,Central,Married,Indep,55000,0
+1863,Male,31 - 40,Central,Married,Indep,67000,0
+1864,Male,31 - 40,Central,Married,Indep,49000,0
+1865,Male,31 - 40,Central,Married,Indep,38000,800
+1866,Male,31 - 40,Central,Married,Indep,90000,0
+1867,Male,31 - 40,Central,Married,Indep,135000,1500
+1868,Male,31 - 40,Central,Married,Indep,155000,1500
+1869,Male,31 - 40,Central,Married,Indep,39000,1000
+1870,Male,31 - 40,Central,Married,Indep,37000,800
+1871,Male,31 - 40,Central,Married,Indep,42000,1000
+1872,Male,31 - 40,Central,Married,Indep,71000,1000
+1873,Male,31 - 40,Western,Married,Indep,50000,0
+1874,Male,31 - 40,Western,Married,Indep,58000,0
+1875,Male,31 - 40,Western,Married,Indep,60000,0
+1876,Male,31 - 40,Western,Married,Indep,65000,0
+1877,Male,31 - 40,Western,Married,Indep,70000,1000
+1878,Male,31 - 40,Western,Married,Indep,75000,0
+1879,Male,31 - 40,Western,Married,Indep,80000,0
+1880,Male,31 - 40,Western,Married,Indep,130000,1000
+1881,Male,31 - 40,Western,Married,Indep,120000,0
+1882,Male,31 - 40,Western,Married,Indep,200000,0
+1883,Male,31 - 40,Western,Married,Indep,300000,0
+1884,Male,31 - 40,Central,Married,Indep,450000,0
+1885,Male,31 - 40,Central,Married,Indep,50000,0
+1886,Male,31 - 40,Central,Married,Indep,58000,0
+1887,Male,31 - 40,Central,Married,Indep,60000,0
+1888,Male,31 - 40,Central,Married,Indep,62000,0
+1889,Male,31 - 40,Western,Married,Indep,400000,0
+1890,Male,31 - 40,Western,Married,Indep,320000,0
+1891,Male,31 - 40,Western,Married,Indep,500000,0
